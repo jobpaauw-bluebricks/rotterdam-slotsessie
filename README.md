@@ -1,0 +1,131 @@
+# Vibe Coding Workshop
+
+Welkom! Dit is je werkplek voor de workshop. Nog nooit geprogrammeerd? Geen zorgen — alles staat al voor je klaar en Claude doet het zware werk. 🧱
+
+## Eerst even: wat is dit allemaal?
+
+Een paar woorden die je vandaag tegenkomt, in gewone taal:
+
+- **GitHub** — een soort online opslagplek én samenwerkplek voor code. Denk aan *Google Drive, maar dan voor programmeurs*. Jouw code en jouw werkplek staan hier veilig in je eigen account.
+- **Codespace** — een **complete computer in de cloud**, die gewoon in je browser draait. Je hoeft niks op je eigen laptop te installeren: alles (inclusief Claude) staat al geïnstalleerd. Wat je hier maakt, blijft van jou.
+- **De terminal** — het venster (vaak onderin) waar je **tekstcommando's** typt. Hier "praat" je met de computer én met Claude. Je typt iets en drukt op **Enter**. Meer is het niet.
+
+## Aan de slag
+
+Toen je deze Codespace opende, is de omgeving automatisch klaargezet (o.a. Claude Code geïnstalleerd). Het laatste stukje gebeurt in de terminal:
+
+1. Open een **nieuwe terminal** (Ctrl+` of Terminal → New Terminal)
+2. De **workshopvragen verschijnen automatisch** — voer je **workshopcode** en **naam** in
+3. Zodra je een ✅ ziet, start Claude vanzelf
+4. Beschrijf wat je wilt bouwen — Claude helpt je!
+
+> Zie je de vragen niet automatisch? Typ dan `bash workshop-init.sh` in de terminal. Heb je Claude afgesloten? Typ `claude` om hem weer te starten.
+
+## 💡 Tip: vraag in kleine stappen
+
+Claude kan in één keer een hele app proberen te bouwen, maar dan zit je soms minuten te wachten zonder iets te zien. Veel leuker (en sneller zichtbaar): **vraag één klein ding tegelijk**.
+
+- ✅ Goed: *"Maak een pagina met een knop die 'Hallo' laat zien als ik erop klik."* → daarna: *"Maak de knop blauw."* → daarna: *"Voeg een invoerveld toe."*
+- 🐌 Trager: *"Bouw een complete webshop met inlog, winkelmandje en betaling."*
+
+Zo zie je **elke paar minuten resultaat** in je scherm en kun je makkelijk bijsturen. Werkt iets goed? **Sla het meteen op** (zie hieronder) en ga verder met de volgende kleine stap.
+
+## Hulp nodig?
+
+- **Workshopvragen opnieuw beantwoorden**: typ `bash workshop-init.sh` in de terminal
+- **Hele setup opnieuw draaien**: typ `bash setup.sh` in de terminal
+- **Instructies bekijken**: open `INSTRUCTIONS.md` (als die er is)
+- **Vraag je workshopleider** als je er niet uitkomt
+
+## 💾 Je werk opslaan (doe dit zodra je iets werkends hebt!)
+
+> **Belangrijk:** deze werkplek heeft nog **geen eigen project** op GitHub. Sla je werk daarom vroeg op — dan ben je nooit iets kwijt. Het kost één klik.
+
+**Zo sla je je werk de eerste keer op:**
+
+1. Klik op het **Source Control** icoon in de linker zijbalk (of druk **Ctrl+Shift+G**)
+2. Klik op de blauwe knop **Publish Branch**
+3. Kies **Publish to GitHub private repository**
+4. Geef je project een naam → **Enter**
+5. Klaar — je code staat nu veilig in jouw eigen GitHub-project! 🎉
+
+**Daarna opslaan (elke keer dat je iets nieuws hebt gemaakt):**
+
+1. Ga weer naar **Source Control** (Ctrl+Shift+G)
+2. Klik op **Commit & Sync** (of het ronde sync-pijltje 🔄)
+3. Klaar — je nieuwste werk staat weer veilig opgeslagen.
+
+> ⚠️ **Gebruik de knop, niet de terminal.** Typ dus géén `git push` in de terminal — dat werkt hier (nog) niet en geeft een foutmelding. De **Publish**- en **Commit & Sync**-knoppen regelen alles voor je.
+
+---
+
+## 🏠 Thuis verder werken (na de workshop)
+
+Leuk dat je verder wilt! Een paar dingen om te weten:
+
+- Je **Codespace blijft bestaan** in je GitHub-account. Je opent 'm later weer via **[github.com/codespaces](https://github.com/codespaces)**.
+- Codespaces zijn **gratis** tot een bepaalde hoeveelheid per maand (ongeveer **60 uur** op de standaardcomputer). Er is **geen creditcard gekoppeld**, dus het kan je **nooit geld kosten**: heb je de gratis tijd opgebruikt, dan pauzeert je Codespace gewoon tot het begin van de volgende maand (je quota reset dan automatisch).
+- Omdat een Codespace kan pauzeren, is het slim om je code op te slaan in een eigen project (zie *Je werk opslaan* hierboven) — dan ben je nooit iets kwijt.
+- **De workshop-toegang (API-key) wordt na de workshop uitgezet.** Dat is normaal. Om verder te kunnen, koppel je je *eigen* account. Hieronder lees je hoe — kies de optie die bij jou past.
+
+### Optie A — Met een Claude-account (makkelijkst)
+
+Je werkte tijdens de workshop al met Claude, dus dit sluit het beste aan.
+
+1. Open de terminal en verwijder de oude workshop-sleutel:
+   ```bash
+   rm ~/.workshop-env
+   ```
+2. **Sluit de terminal en open een nieuwe** (zodat de oude sleutel niet meer wordt geladen).
+3. Typ:
+   ```bash
+   claude
+   ```
+4. Claude vraagt je nu om in te loggen — log in met je **Claude-account**.
+
+> Je hebt hiervoor een betaald **Claude Pro**- of **Max**-abonnement nodig (het gratis Claude-account werkt niet met Claude Code). Bekijk de actuele opties op **[claude.com/pricing](https://claude.com/pricing)**.
+
+### Optie B — Met je eigen Anthropic API-key (betalen per gebruik)
+
+Liever betalen per gebruik in plaats van een abonnement?
+
+1. Haal een eigen sleutel op via **[console.anthropic.com](https://console.anthropic.com)** → *API Keys* → *Create Key* (en kopieer 'm).
+2. Zet je eigen sleutel klaar (vervang `sk-ant-JOUW-KEY` door je echte sleutel):
+   ```bash
+   echo 'export ANTHROPIC_API_KEY="sk-ant-JOUW-KEY"' > ~/.workshop-env
+   ```
+3. **Open een nieuwe terminal** en typ `claude`. Klaar!
+
+> Bij deze optie betaal je per gebruik. Je verbruik zie je op **[console.anthropic.com](https://console.anthropic.com)**.
+
+### Optie C — Met een ChatGPT-account
+
+Heb je geen Claude, maar wél een **ChatGPT-account**? Dan kun je verder met **Codex**, het terminal-gereedschap van OpenAI (vergelijkbaar met Claude Code, maar dan met ChatGPT).
+
+1. Installeer Codex in de terminal:
+   ```bash
+   curl -fsSL https://chatgpt.com/codex/install.sh | sh
+   ```
+2. Start het:
+   ```bash
+   codex
+   ```
+3. Log in met je **ChatGPT-account** (er opent een browservenster).
+
+> Codex werkt met de meeste ChatGPT-abonnementen (Free, Plus, Pro, e.a.). Meer info: **[developers.openai.com/codex](https://developers.openai.com/codex/cli)**.
+>
+> Let op: Codex is een ander programma dan Claude. De Claude-instellingen uit deze workshop gelden er niet voor — je typt `codex` in plaats van `claude`.
+
+### Of: nog makkelijker, zónder terminal
+
+Vond je de terminal nog wat spannend? Er zijn ook **"no-code" AI-bouwers** waarmee je gewoon in je browser een app bouwt door te chatten — géén GitHub, Codespace of terminal nodig:
+
+- **[Lovable](https://lovable.dev)** — beschrijf je app in gewone taal en Lovable bouwt 'm voor je.
+- **[Bolt](https://bolt.new)** — bouw complete web-apps direct in je browser.
+- **[Google AI Studio](https://aistudio.google.com)** — experimenteer (gratis) met Google's AI en bouw er kleine apps mee.
+
+Maak een (gratis) account aan en begin meteen met typen wat je wilt maken. Ideaal om thuis verder te spelen zonder gedoe met installeren.
+
+---
+
+Veel plezier met bouwen! 🚀
