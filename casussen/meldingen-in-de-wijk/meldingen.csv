@@ -1,0 +1,606 @@
+meldingnummer,datum,tijd,wijk,straat,categorie,omschrijving,kanaal,status,afgehandeld_op,lat,lon
+M-2026-0001,2026-01-01,07:05,Charlois,Kreekoever,Straatverlichting,"Drie lampen achter elkaar uit bij het bankje, geeft een onveilig gevoel.",website,afgehandeld,2026-01-07,51.891,4.46746
+M-2026-0002,2026-01-02,10:02,Centrum,Pakhuisplein,Bestrating,"Tegels steken omhoog, lastig met de rollator.",website,afgehandeld,2026-01-14,51.9186,4.47151
+M-2026-0003,2026-01-02,18:50,IJsselmonde,Oeverzwaluwstraat,Straatverlichting,"Drie lampen achter elkaar uit tegenover de supermarkt, geeft een onveilig gevoel.",app,afgehandeld,2026-01-11,51.89298,4.53902
+M-2026-0004,2026-01-03,07:15,Prins Alexander,Tuinstadlaan,Zwerfafval,Iemand heeft een bank en een matras op straat gezet op de hoek met de Zevenkampse Hof.,app,afgehandeld,2026-01-05,51.95234,4.54348
+M-2026-0005,2026-01-03,11:09,Noord,Lindehof,Container vol,"Restafvalcontainer klemt, de klep zit vast op de hoek met de Bloemkweekstraat.",telefoon,afgehandeld,2026-01-04,51.93423,4.47015
+M-2026-0006,2026-01-03,20:23,Overschie,Schieoever,Fietswrak,Fietswrak staat al maanden vast aan het hek bij de bushalte.,website,afgehandeld,2026-01-27,51.93899,4.4341
+M-2026-0007,2026-01-03,23:12,Charlois,Dorpsweidepad,Straatverlichting,Straatlamp knippert de hele avond naast de speeltuin.,app,afgehandeld,2026-01-08,51.88445,4.48535
+M-2026-0008,2026-01-04,10:08,Charlois,Dorpsweidepad,Zwerfafval,Na het weekend ligt het hier vol met afval voor nummer 104.,website,afgehandeld,2026-01-08,51.88051,4.46235
+M-2026-0009,2026-01-04,12:08,Noord,Kanaalstraat,Groen en bomen,Het gras in het plantsoen wordt niet gemaaid bij de ingang van het park.,website,afgehandeld,2026-02-16,51.93483,4.47662
+M-2026-0010,2026-01-05,10:43,IJsselmonde,Smeltkroesstraat,Zwerfafval,Glasscherven op het fietspad. Gevaarlijk voor fietsers.,app,afgehandeld,2026-01-06,51.89347,4.54018
+M-2026-0011,2026-01-05,19:22,Prins Alexander,Tuinstadlaan,Zwerfafval,Iemand heeft een bank en een matras op straat gezet tegenover de supermarkt.,website,afgehandeld,2026-01-10,51.95589,4.56173
+M-2026-0012,2026-01-07,17:38,Overschie,Molensloot,Container vol,Containr vol en het stinkt.,website,afgehandeld,2026-01-08,51.9431,4.43232
+M-2026-0013,2026-01-07,19:42,Feijenoord,Dokwerkersplein,Zwerfafval,Na de markt liggen er overal kartonnen dozen op de hoek met de Laadkraanstraat.,website,afgehandeld,2026-01-11,51.89816,4.5001
+M-2026-0014,2026-01-07,19:59,Centrum,Zeilmakershof,Bestrating,"Gat in de weg, auto's rijden eromheen.",app,afgehandeld,2026-01-19,51.91806,4.47813
+M-2026-0015,2026-01-07,20:33,Prins Alexander,Zevenkampse Hof,Overig,"Donker stuk op het fietspad ter hoogte van nummer 85, de verlichting is kapot.",app,afgehandeld,2026-01-12,51.95623,4.5486
+M-2026-0016,2026-01-07,20:53,Feijenoord,Marktveldstraat,Zwerfafval,Na de markt liggen er overal kartonnen dozen bij het bankje.,website,afgehandeld,2026-01-10,51.90139,4.52213
+M-2026-0017,2026-01-08,09:48,Noord,Kanaalstraat,Graffiti,Bushokje helemaal beklad ter hoogte van nummer 126.,website,afgehandeld,2026-01-18,51.93597,4.46918
+M-2026-0018,2026-01-08,20:46,Kralingen-Crooswijk,Plaslaan,Zwerfafval,"Het ligt hier echt vies voor nummer 5, wanneer wordt er geveegd?",website,afgehandeld,2026-01-12,51.927,4.50956
+M-2026-0019,2026-01-09,17:41,Noord,Notenkrakerspad,Overig,Prullenbak is van de paal gereden bij de ingang van het park.,telefoon,afgehandeld,2026-01-19,51.93626,4.46835
+M-2026-0020,2026-01-10,09:25,Centrum,Stokviswal,Container vol,"Container zit vol, zakken staan ernaast naast de speeltuin.",website,afgehandeld,2026-01-11,51.92336,4.48711
+M-2026-0021,2026-01-11,09:34,Delfshaven,Mouterijstraat,Zwerfafval,Na het weekend ligt het hier vol met afval op de hoek met de Jeneverkade.,website,afgehandeld,2026-01-15,51.91273,4.44027
+M-2026-0022,2026-01-12,11:45,IJsselmonde,Dijkwachterslaan,Zwerfafval,Glasscherven op het fietspad bij de ingang van het park. Gevaarlijk voor fietsers.,telefoon,afgehandeld,2026-01-14,51.87895,4.54363
+M-2026-0023,2026-01-13,07:04,Feijenoord,Dokwerkersplein,Straatverlichting,"Donker stuk op het fietspad, de verlichting is kapot.",website,afgehandeld,2026-01-27,51.89297,4.50144
+M-2026-0024,2026-01-13,19:18,Kralingen-Crooswijk,Crooswijkse Boog,Straatverlichting,Straatlamp knippert de hele avond ter hoogte van nummer 11.,website,afgehandeld,2026-01-17,51.92075,4.51126
+M-2026-0025,2026-01-14,10:59,IJsselmonde,Dijkwachterslaan,Overig,"Bankje in het park is kapot, er mist een plank naast de speeltuin.",telefoon,afgehandeld,2026-02-02,51.89222,4.55498
+M-2026-0026,2026-01-14,19:17,Hillegersberg-Schiebroek,Plassenkade,Container vol,Containr vol en het stinkt naast de speeltuin.,telefoon,afgehandeld,2026-01-15,51.95521,4.48551
+M-2026-0027,2026-01-15,09:19,IJsselmonde,Oeverzwaluwstraat,Container vol,De papiercontainer is al dagen vol op de hoek met de Dijkwachterslaan.,website,afgehandeld,2026-01-16,51.88588,4.55079
+M-2026-0028,2026-01-16,10:48,Prins Alexander,Zevenkampse Hof,Fietswrak,Fietswrak staat al maanden vast aan het hek bij de bushalte.,app,afgehandeld,2026-02-19,51.95121,4.53739
+M-2026-0029,2026-01-16,12:38,Delfshaven,Touwslagerspad,Overig,Glasscherven op het fietspad. Gevaarlijk voor fietsers.,app,afgehandeld,2026-01-17,51.91237,4.44725
+M-2026-0030,2026-01-16,18:24,Kralingen-Crooswijk,Crooswijkse Boog,Zwerfafval,"Rommel rond de bankjes, meeuwen trekken de zakken open.",telefoon,afgehandeld,2026-01-19,51.93067,4.5209
+M-2026-0031,2026-01-17,10:51,Feijenoord,Marktveldstraat,Zwerfafval,"Rotte groente en plastic zakken van de markt, het stinkt.",telefoon,afgehandeld,2026-01-18,51.89968,4.49558
+M-2026-0032,2026-01-17,16:14,Feijenoord,Pakhuisweg,Ongedierte,"Duiven nestelen onder het viaduct tegenover de supermarkt, alles zit onder de poep.",website,afgehandeld,2026-01-24,51.89948,4.50588
+M-2026-0033,2026-01-18,10:38,Noord,Lindehof,Graffiti,Graffiti op de brugleuning tegenover de supermarkt.,website,afgehandeld,2026-02-06,51.93173,4.48123
+M-2026-0034,2026-01-18,13:44,Feijenoord,Pakhuisweg,Zwerfafval,"Rommel rond de bankjes, meeuwen trekken de zakken open.",app,afgehandeld,2026-01-20,51.90574,4.50361
+M-2026-0035,2026-01-18,20:53,IJsselmonde,Smeltkroesstraat,Straatverlichting,Lantaarnpaal doet het niet. Het is hier 's avonds heel donker.,website,afgehandeld,2026-01-25,51.8945,4.5374
+M-2026-0036,2026-01-18,23:14,Charlois,Kreekoever,Straatverlichting,Lamp brandt overdag ook bij de ingang van het park.,telefoon,afgehandeld,2026-01-26,51.88525,4.47612
+M-2026-0037,2026-01-19,11:34,Hillegersberg-Schiebroek,Rozenbottelstraat,Zwerfafval,"Het ligt hier echt vies naast de speeltuin, wanneer wordt er geveegd?",website,afgehandeld,2026-01-24,51.95249,4.49435
+M-2026-0038,2026-01-19,11:49,Prins Alexander,Kiekendiefpad,Zwerfafval,"Het ligt hier echt vies, wanneer wordt er geveegd?",website,afgehandeld,2026-01-23,51.95454,4.54419
+M-2026-0039,2026-01-19,17:05,Hillegersberg-Schiebroek,Rozenbottelstraat,Container vol,Containr vol en het stinkt voor nummer 48.,website,afgehandeld,2026-01-20,51.9547,4.49053
+M-2026-0040,2026-01-20,07:17,Hillegersberg-Schiebroek,Wilgenwal,Fietswrak,"Weesfiets met platte banden bij de ingang van het park, staat er al sinds de zomer.",website,afgehandeld,2026-02-10,51.95325,4.48089
+M-2026-0041,2026-01-20,07:32,Delfshaven,Jeneverkade,Overig,Ondergrondse container gaat niet meer open voor nummer 124.,telefoon,afgehandeld,2026-01-23,51.90214,4.43902
+M-2026-0042,2026-01-20,22:56,Feijenoord,Marktveldstraat,Straatverlichting,"Drie lampen achter elkaar uit voor nummer 48, geeft een onveilig gevoel.",website,afgehandeld,2026-02-01,51.90045,4.49938
+M-2026-0043,2026-01-21,07:52,Feijenoord,Dokwerkersplein,Zwerfafval,"Rotte groente en plastic zakken van de markt voor nummer 132, het stinkt.",app,afgehandeld,2026-01-22,51.89889,4.49745
+M-2026-0044,2026-01-21,12:42,Feijenoord,Marktveldstraat,Container vol,De papiercontainer is al dagen vol.,app,afgehandeld,2026-01-23,51.89619,4.50256
+M-2026-0045,2026-01-22,11:22,Centrum,Stokviswal,Overig,"Veel zwerfafval op de stoep bij de ingang van het park. Blikjes, zakjes en plastic overal.",website,afgehandeld,2026-01-24,51.92851,4.48154
+M-2026-0046,2026-01-23,15:01,Hillegersberg-Schiebroek,Plassenkade,Zwerfafval,"Rommel rond de bankjes ter hoogte van nummer 47, meeuwen trekken de zakken open.",app,afgehandeld,2026-01-26,51.94985,4.49144
+M-2026-0047,2026-01-23,19:39,Feijenoord,Brugwachterskade,Overig,Heg groeit over het fietspad ter hoogte van nummer 34.,website,afgehandeld,2026-03-06,51.89757,4.50656
+M-2026-0048,2026-01-23,22:49,Charlois,Kreekoever,Straatverlichting,"Donker stuk op het fietspad op de hoek met de Dorpsweidepad, de verlichting is kapot.",telefoon,afgehandeld,2026-02-04,51.87976,4.47261
+M-2026-0049,2026-01-24,23:39,Delfshaven,Koolvisstraat,Straatverlichting,Lantaarnpaal doet het niet. Het is hier 's avonds heel donker.,telefoon,afgehandeld,2026-01-31,51.90586,4.44446
+M-2026-0050,2026-01-26,09:48,Centrum,Tonnenkade,Zwerfafval,Na het weekend ligt het hier vol met afval tegenover de supermarkt.,telefoon,afgehandeld,2026-01-31,51.92209,4.4784
+M-2026-0051,2026-01-26,17:54,Feijenoord,Laadkraanstraat,Bestrating,Klinkers liggen los op het kruispunt voor nummer 48.,website,afgehandeld,2026-02-04,51.8995,4.49563
+M-2026-0052,2026-01-26,18:12,Centrum,Zeilmakershof,Straatverlichting,Lantaarnpaal doet het niet tegenover de supermarkt. Het is hier 's avonds heel donker.,website,afgehandeld,2026-02-01,51.9171,4.48463
+M-2026-0053,2026-01-27,14:34,Centrum,Tonnenkade,Overig,Verkeersbord ligt op de grond voor nummer 11.,telefoon,afgehandeld,2026-02-08,51.92293,4.48639
+M-2026-0054,2026-01-27,23:15,Overschie,Schieoever,Straatverlichting,Lamp brandt overdag ook.,telefoon,afgehandeld,2026-02-05,51.9428,4.43774
+M-2026-0055,2026-01-28,10:44,Feijenoord,Dokwerkersplein,Zwerfafval,"Na de markt blijft er veel afval achter naast de speeltuin: kratten, groente en plastic.",website,afgehandeld,2026-02-01,51.89695,4.49938
+M-2026-0056,2026-01-28,19:54,Feijenoord,Dokwerkersplein,Zwerfafval,Marktafval waait de straat in op de hoek met de Dokwerkersplein.,app,afgehandeld,2026-01-31,51.89501,4.49477
+M-2026-0057,2026-01-29,21:45,Prins Alexander,Fluitekruidstraat,Container vol,"Restafvalcontainer klemt, de klep zit vast voor nummer 68.",telefoon,afgehandeld,2026-01-31,51.94927,4.54343
+M-2026-0058,2026-01-30,13:30,Kralingen-Crooswijk,Rietkragenhof,Fietswrak,Fietswrak staat al maanden vast aan het hek ter hoogte van nummer 126.,app,afgehandeld,2026-03-05,51.92304,4.51218
+M-2026-0059,2026-01-30,13:57,Hillegersberg-Schiebroek,Wilgenwal,Graffiti,Graffiti op de brugleuning op de hoek met de Villapark Oost.,website,afgehandeld,2026-02-14,51.95505,4.50007
+M-2026-0060,2026-01-30,16:55,Centrum,Zeilmakershof,Zwerfafval,Iemand heeft een bank en een matras op straat gezet voor nummer 85.,telefoon,afgehandeld,2026-02-02,51.92771,4.48424
+M-2026-0061,2026-01-31,15:58,Prins Alexander,Zevenkampse Hof,Graffiti,Nieuwe tags op het transformatorhuisje tegenover de supermarkt.,website,afgehandeld,2026-02-21,51.95718,4.54446
+M-2026-0062,2026-01-31,22:40,Feijenoord,Dokwerkersplein,Zwerfafval,"Na de markt blijft er veel afval achter: kratten, groente en plastic.",telefoon,afgehandeld,2026-02-04,51.89237,4.49423
+M-2026-0063,2026-02-02,08:46,Noord,Spoorbaanstraat,Zwerfafval,Glasscherven op het fietspad tegenover de supermarkt. Gevaarlijk voor fietsers.,app,afgehandeld,2026-02-04,51.93633,4.46517
+M-2026-0064,2026-02-02,09:00,Overschie,Landhoeveweg,Bestrating,"Gat in de weg bij het bankje, auto's rijden eromheen.",website,afgehandeld,2026-02-09,51.94159,4.44009
+M-2026-0065,2026-02-02,20:37,Delfshaven,Koolvisstraat,Container vol,Containr vol en het stinkt bij het bankje.,app,afgehandeld,2026-02-05,51.90616,4.43836
+M-2026-0066,2026-02-03,09:57,Prins Alexander,Zevenkampse Hof,Zwerfafval,Na het weekend ligt het hier vol met afval naast de speeltuin.,app,afgehandeld,2026-02-08,51.95878,4.54664
+M-2026-0067,2026-02-04,12:00,Kralingen-Crooswijk,Crooswijkse Boog,Fietswrak,"Fiets zonder wielen in het fietsenrek, neemt ruimte in.",website,afgehandeld,2026-02-22,51.92937,4.51453
+M-2026-0068,2026-02-06,07:58,Charlois,Hoeveweg,Ongedierte,Wespennest in de lantaarnpaal bij het bankje.,website,afgehandeld,2026-02-16,51.88665,4.47012
+M-2026-0069,2026-02-06,16:31,Noord,Lindehof,Graffiti,Graffiti op de brugleuning tegenover de supermarkt.,website,afgehandeld,2026-02-19,51.93582,4.4718
+M-2026-0070,2026-02-06,22:07,Kralingen-Crooswijk,Molenwiekstraat,Fietswrak,Fietswrak staat al maanden vast aan het hek voor nummer 73.,website,afgehandeld,2026-02-25,51.92528,4.51183
+M-2026-0071,2026-02-07,22:13,Hillegersberg-Schiebroek,Kastanjehoflaan,Straatverlichting,Lamp brandt overdag ook bij de bushalte.,website,afgehandeld,2026-02-16,51.95593,4.48945
+M-2026-0072,2026-02-08,09:53,Centrum,Stokviswal,Zwerfafval,Glasscherven op het fietspad bij het bankje. Gevaarlijk voor fietsers.,website,afgehandeld,2026-02-10,51.91783,4.48026
+M-2026-0073,2026-02-08,12:33,Charlois,Boomgaardstraat,Zwerfafval,"Er ligt een berg vuilniszakken naast de container bij de bushalte, het waait alle kanten op.",website,afgehandeld,2026-02-11,51.87848,4.48438
+M-2026-0074,2026-02-11,15:51,Delfshaven,Jeneverkade,Zwerfafval,"Zwerfvuil langs de waterkant, flessen drijven in het water.",telefoon,afgehandeld,2026-02-15,51.91356,4.4393
+M-2026-0075,2026-02-11,17:17,Charlois,Boomgaardstraat,Groen en bomen,"Grote tak afgebroken, hangt nog half aan de boom tegenover de supermarkt.",telefoon,afgehandeld,2026-03-12,51.87767,4.48562
+M-2026-0076,2026-02-11,18:43,Centrum,Zeilmakershof,Overig,"Donker stuk op het fietspad voor nummer 77, de verlichting is kapot.",app,afgehandeld,2026-02-17,51.91528,4.48427
+M-2026-0077,2026-02-11,22:59,Charlois,Hoeveweg,Straatverlichting,"Drie lampen achter elkaar uit op de hoek met de Zuidpolderhof, geeft een onveilig gevoel.",app,afgehandeld,2026-02-17,51.8848,4.47668
+M-2026-0078,2026-02-12,07:38,Centrum,Stokviswal,Straatverlichting,"Donker stuk op het fietspad naast de speeltuin, de verlichting is kapot.",app,afgehandeld,2026-02-26,51.91854,4.48725
+M-2026-0079,2026-02-12,11:25,Centrum,Stokviswal,Ongedierte,"Ratten bij de containers, vooral 's avonds.",website,afgehandeld,2026-02-16,51.91974,4.4895
+M-2026-0080,2026-02-13,08:51,Feijenoord,Pakhuisweg,Bestrating,"Tegels steken omhoog ter hoogte van nummer 94, lastig met de rollator.",telefoon,afgehandeld,2026-02-23,51.90724,4.49437
+M-2026-0081,2026-02-13,18:11,Delfshaven,Mouterijstraat,Ongedierte,"Duiven nestelen onder het viaduct bij de bushalte, alles zit onder de poep.",website,afgehandeld,2026-02-22,51.9123,4.44895
+M-2026-0082,2026-02-14,12:54,Feijenoord,Dokwerkersplein,Zwerfafval,"Rommel rond de bankjes voor nummer 97, meeuwen trekken de zakken open.",telefoon,afgehandeld,2026-02-17,51.89132,4.50394
+M-2026-0083,2026-02-14,14:20,Feijenoord,Dokwerkersplein,Zwerfafval,Marktafval waait de straat in op de hoek met de Dokwerkersplein.,app,afgehandeld,2026-02-17,51.89696,4.50437
+M-2026-0084,2026-02-16,09:31,Noord,Bloemkweekstraat,Zwerfafval,"Er ligt een berg vuilniszakken naast de container, het waait alle kanten op.",website,afgehandeld,2026-02-21,51.93239,4.47404
+M-2026-0085,2026-02-16,10:15,IJsselmonde,Rivierhof,Overig,Verroeste fiets in het rek bij de metro bij het bankje.,app,afgehandeld,2026-03-15,51.89137,4.54162
+M-2026-0086,2026-02-16,21:07,Delfshaven,Kuipershof,Overig,"Onkruid tussen de tegels bij de ingang van het park, het wordt een wildernis.",website,afgehandeld,2026-03-25,51.91257,4.443
+M-2026-0087,2026-02-17,16:59,Feijenoord,Pakhuisweg,Overig,Fietswrak staat al maanden vast aan het hek.,website,afgehandeld,2026-03-22,51.8986,4.49837
+M-2026-0088,2026-02-18,07:29,Charlois,Zuidpolderhof,Groen en bomen,Halve boom in de speeltuin na de storm.,app,afgehandeld,2026-02-20,51.88761,4.47538
+M-2026-0089,2026-02-18,07:52,Overschie,Zandweg Oost,Groen en bomen,Grote tak op een geparkeerde auto gevallen.,website,afgehandeld,2026-02-21,51.93814,4.42654
+M-2026-0090,2026-02-18,09:35,Kralingen-Crooswijk,Plaslaan,Groen en bomen,"Boom omgewaaid door de storm bij de bushalte, hij ligt over de weg!",website,afgehandeld,2026-02-18,51.92466,4.50783
+M-2026-0091,2026-02-18,10:49,Noord,Spoorbaanstraat,Groen en bomen,"Door de storm hangt een tak boven de stoep naast de speeltuin, gevaarlijk.",telefoon,afgehandeld,2026-02-20,51.9371,4.46631
+M-2026-0092,2026-02-18,11:38,Centrum,Pakhuisplein,Groen en bomen,"Boom ligt over het fietspad bij de ingang van het park, er kan niemand langs.",website,afgehandeld,2026-02-18,51.91966,4.47689
+M-2026-0093,2026-02-18,12:00,Charlois,Dorpsweidepad,Groen en bomen,"Boom omgewaaid door de storm voor nummer 51, hij ligt over de weg!",telefoon,afgehandeld,2026-02-18,51.88085,4.46923
+M-2026-0094,2026-02-18,12:35,Prins Alexander,Zevenkampse Hof,Groen en bomen,"Boom ligt over het fietspad, er kan niemand langs.",website,afgehandeld,2026-02-21,51.95868,4.54558
+M-2026-0095,2026-02-18,13:34,Feijenoord,Laadkraanstraat,Groen en bomen,"Door de storm hangt een tak boven de stoep tegenover de supermarkt, gevaarlijk.",website,afgehandeld,2026-02-20,51.90009,4.50985
+M-2026-0096,2026-02-18,14:17,IJsselmonde,Weidevogelpad,Groen en bomen,"Door de storm hangt een tak boven de stoep, gevaarlijk.",website,afgehandeld,2026-02-21,51.8847,4.54845
+M-2026-0097,2026-02-18,14:24,Prins Alexander,Kiekendiefpad,Groen en bomen,Omgewaaide boom tegen een gevel op de hoek met de Parkzoomlaan.,website,afgehandeld,2026-02-19,51.95415,4.55332
+M-2026-0098,2026-02-18,14:50,Overschie,Polderzicht,Groen en bomen,"Door de storm hangt een tak boven de stoep voor nummer 25, gevaarlijk.",app,afgehandeld,2026-02-19,51.93889,4.42684
+M-2026-0099,2026-02-18,15:41,Charlois,Kreekoever,Groen en bomen,Halve boom in de speeltuin na de storm bij de bushalte.,app,afgehandeld,2026-02-18,51.87965,4.47558
+M-2026-0100,2026-02-18,15:57,Charlois,Hoeveweg,Graffiti,"Iemand heeft het verkeersbord beklad bij de bushalte, je kunt het niet meer lezen.",website,afgehandeld,2026-03-07,51.89028,4.484
+M-2026-0101,2026-02-18,17:12,Centrum,Stokviswal,Groen en bomen,Omgewaaide boom tegen een gevel tegenover de supermarkt.,telefoon,afgehandeld,2026-02-19,51.9233,4.48276
+M-2026-0102,2026-02-18,17:24,Kralingen-Crooswijk,Crooswijkse Boog,Groen en bomen,"Boom omgewaaid door de storm bij de ingang van het park, hij ligt over de weg!",telefoon,afgehandeld,2026-02-20,51.92713,4.51886
+M-2026-0103,2026-02-18,17:43,Delfshaven,Kuipershof,Groen en bomen,Omgewaaide boom tegen een gevel bij de ingang van het park.,website,afgehandeld,2026-02-21,51.90437,4.4392
+M-2026-0104,2026-02-18,17:58,Noord,Kanaalstraat,Groen en bomen,"Boom ligt over het fietspad voor nummer 35, er kan niemand langs.",telefoon,afgehandeld,2026-02-18,51.93623,4.4738
+M-2026-0105,2026-02-18,18:20,Centrum,Zeilmakershof,Groen en bomen,"Door de storm hangt een tak boven de stoep bij de ingang van het park, gevaarlijk.",telefoon,afgehandeld,2026-02-20,51.9197,4.47451
+M-2026-0106,2026-02-18,19:06,Kralingen-Crooswijk,Crooswijkse Boog,Groen en bomen,Halve boom in de speeltuin na de storm tegenover de supermarkt.,website,afgehandeld,2026-02-21,51.92634,4.50564
+M-2026-0107,2026-02-18,19:15,Centrum,Tonnenkade,Groen en bomen,"Boom omgewaaid door de storm, hij ligt over de weg!",telefoon,afgehandeld,2026-02-18,51.92664,4.47749
+M-2026-0108,2026-02-18,19:57,Kralingen-Crooswijk,Crooswijkse Boog,Groen en bomen,"Door de storm hangt een tak boven de stoep bij de bushalte, gevaarlijk.",website,afgehandeld,2026-02-21,51.92665,4.5142
+M-2026-0109,2026-02-18,20:18,Kralingen-Crooswijk,Rietkragenhof,Groen en bomen,"Door de storm hangt een tak boven de stoep voor nummer 46, gevaarlijk.",app,afgehandeld,2026-02-21,51.92195,4.50856
+M-2026-0110,2026-02-18,22:43,Hillegersberg-Schiebroek,Rozenbottelstraat,Groen en bomen,"Boom omgewaaid door de storm bij de bushalte, hij ligt over de weg!",app,afgehandeld,2026-02-18,51.94404,4.49159
+M-2026-0111,2026-02-19,07:25,Noord,Notenkrakerspad,Groen en bomen,"Door de storm hangt een tak boven de stoep voor nummer 111, gevaarlijk.",website,afgehandeld,2026-02-19,51.93105,4.46827
+M-2026-0112,2026-02-19,10:53,Delfshaven,Kuipershof,Groen en bomen,Omgewaaide boom tegen een gevel op de hoek met de Mouterijstraat.,app,afgehandeld,2026-02-20,51.91161,4.44773
+M-2026-0113,2026-02-19,11:12,Noord,Lindehof,Groen en bomen,Halve boom in de speeltuin na de storm bij de bushalte.,website,afgehandeld,2026-02-20,51.93218,4.46972
+M-2026-0114,2026-02-19,12:10,IJsselmonde,Dijkwachterslaan,Groen en bomen,"Door de storm hangt een tak boven de stoep op de hoek met de Smeltkroesstraat, gevaarlijk.",app,afgehandeld,2026-02-22,51.88781,4.55267
+M-2026-0115,2026-02-19,12:15,Feijenoord,Brugwachterskade,Groen en bomen,Omgewaaide boom tegen een gevel naast de speeltuin.,website,afgehandeld,2026-02-19,51.89971,4.50082
+M-2026-0116,2026-02-19,13:22,IJsselmonde,Weidevogelpad,Groen en bomen,"Door de storm hangt een tak boven de stoep naast de speeltuin, gevaarlijk.",app,afgehandeld,2026-02-19,51.89229,4.54603
+M-2026-0117,2026-02-19,13:52,Prins Alexander,Zevenkampse Hof,Groen en bomen,Omgewaaide boom tegen een gevel op de hoek met de Tuinstadlaan.,app,afgehandeld,2026-02-21,51.95157,4.54626
+M-2026-0118,2026-02-19,16:18,Prins Alexander,Kiekendiefpad,Groen en bomen,Halve boom in de speeltuin na de storm.,website,afgehandeld,2026-02-21,51.95563,4.5556
+M-2026-0119,2026-02-19,17:45,Feijenoord,Marktveldstraat,Groen en bomen,Grote tak op een geparkeerde auto gevallen.,app,afgehandeld,2026-02-19,51.90513,4.48933
+M-2026-0120,2026-02-19,18:15,Kralingen-Crooswijk,Rietkragenhof,Groen en bomen,Het gras in het plantsoen wordt niet gemaaid.,app,afgehandeld,2026-03-24,51.92683,4.51042
+M-2026-0121,2026-02-19,18:54,Centrum,Zeilmakershof,Groen en bomen,"Door de storm hangt een tak boven de stoep naast de speeltuin, gevaarlijk.",telefoon,afgehandeld,2026-02-19,51.92138,4.48264
+M-2026-0122,2026-02-19,23:02,Centrum,Zeilmakershof,Straatverlichting,Lamp brandt overdag ook bij de ingang van het park.,website,afgehandeld,2026-02-24,51.92322,4.48236
+M-2026-0123,2026-02-20,13:21,Centrum,Stokviswal,Fietswrak,"Weesfiets met platte banden bij de bushalte, staat er al sinds de zomer.",website,afgehandeld,2026-03-23,51.92335,4.48579
+M-2026-0124,2026-02-21,12:33,Noord,Notenkrakerspad,Zwerfafval,Glasscherven op het fietspad naast de speeltuin. Gevaarlijk voor fietsers.,website,afgehandeld,2026-02-23,51.93486,4.47182
+M-2026-0125,2026-02-21,16:34,Kralingen-Crooswijk,Plaslaan,Zwerfafval,Iemand heeft een bank en een matras op straat gezet.,app,afgehandeld,2026-02-26,51.93247,4.51246
+M-2026-0126,2026-02-21,18:05,Charlois,Kreekoever,Container vol,Containr vol en het stinkt.,website,afgehandeld,2026-02-24,51.88277,4.46461
+M-2026-0127,2026-02-22,08:15,Delfshaven,Koolvisstraat,Zwerfafval,"Rommel rond de bankjes, meeuwen trekken de zakken open.",app,afgehandeld,2026-02-27,51.90574,4.45149
+M-2026-0128,2026-02-22,09:04,Delfshaven,Jeneverkade,Container vol,De papiercontainer is al dagen vol.,website,afgehandeld,2026-02-25,51.90921,4.43679
+M-2026-0129,2026-02-22,10:57,Kralingen-Crooswijk,Plaslaan,Container vol,Ondergrondse container gaat niet meer open voor nummer 18.,website,afgehandeld,2026-02-25,51.92738,4.51347
+M-2026-0130,2026-02-23,16:19,Charlois,Zuidpolderhof,Overig,"Tegels steken omhoog voor nummer 117, lastig met de rollator.",telefoon,afgehandeld,2026-02-28,51.88466,4.48678
+M-2026-0131,2026-02-23,18:48,Kralingen-Crooswijk,Rietkragenhof,Zwerfafval,"Zwerfvuil langs de waterkant voor nummer 15, flessen drijven in het water.",app,afgehandeld,2026-02-25,51.92443,4.51657
+M-2026-0132,2026-02-23,20:56,Feijenoord,Laadkraanstraat,Bestrating,Klinkers liggen los op het kruispunt voor nummer 52.,telefoon,afgehandeld,2026-03-05,51.89733,4.49792
+M-2026-0133,2026-02-23,22:39,Noord,Bloemkweekstraat,Straatverlichting,Lantaarnpaal doet het niet tegenover de supermarkt. Het is hier 's avonds heel donker.,app,afgehandeld,2026-03-01,51.94308,4.46055
+M-2026-0134,2026-02-24,16:54,Prins Alexander,Tuinstadlaan,Zwerfafval,"Veel zwerfafval op de stoep bij het bankje. Blikjes, zakjes en plastic overal.",website,afgehandeld,2026-02-25,51.95495,4.54992
+M-2026-0135,2026-02-25,13:11,Delfshaven,Touwslagerspad,Ongedierte,"Duiven nestelen onder het viaduct bij de bushalte, alles zit onder de poep.",app,afgehandeld,2026-03-06,51.91069,4.44907
+M-2026-0136,2026-02-26,09:26,Centrum,Koopmansgang,Ongedierte,"Duiven nestelen onder het viaduct op de hoek met de Zeilmakershof, alles zit onder de poep.",website,afgehandeld,2026-03-05,51.91674,4.46814
+M-2026-0137,2026-02-26,12:10,Overschie,Zandweg Oost,Zwerfafval,"Rommel rond de bankjes, meeuwen trekken de zakken open.",website,afgehandeld,2026-03-02,51.93834,4.42936
+M-2026-0138,2026-02-26,15:34,IJsselmonde,Weidevogelpad,Zwerfafval,"Het ligt hier echt vies, wanneer wordt er geveegd?",app,afgehandeld,2026-03-02,51.89149,4.55242
+M-2026-0139,2026-02-26,20:35,Overschie,Molensloot,Ongedierte,"Ratten bij de containers bij de ingang van het park, vooral 's avonds.",website,afgehandeld,2026-03-06,51.94534,4.44102
+M-2026-0140,2026-02-28,22:35,Charlois,Boomgaardstraat,Straatverlichting,"Drie lampen achter elkaar uit bij de ingang van het park, geeft een onveilig gevoel.",telefoon,afgehandeld,2026-03-06,51.88511,4.474
+M-2026-0141,2026-03-01,09:56,Kralingen-Crooswijk,Rietkragenhof,Zwerfafval,"Veel zwerfafval op de stoep naast de speeltuin. Blikjes, zakjes en plastic overal.",website,afgehandeld,2026-03-05,51.92609,4.5201
+M-2026-0142,2026-03-02,13:34,Prins Alexander,Tuinstadlaan,Container vol,Ondergrondse container gaat niet meer open.,website,afgehandeld,2026-03-03,51.95143,4.55078
+M-2026-0143,2026-03-03,12:51,Delfshaven,Jeneverkade,Fietswrak,"Weesfiets met platte banden op de hoek met de Koolvisstraat, staat er al sinds de zomer.",app,afgehandeld,2026-03-26,51.90751,4.44375
+M-2026-0144,2026-03-04,12:35,Kralingen-Crooswijk,Crooswijkse Boog,Zwerfafval,Glasscherven op het fietspad bij de ingang van het park. Gevaarlijk voor fietsers.,telefoon,afgehandeld,2026-03-07,51.92791,4.51614
+M-2026-0145,2026-03-04,18:43,Hillegersberg-Schiebroek,Rozenbottelstraat,Groen en bomen,Heg groeit over het fietspad voor nummer 119.,telefoon,afgehandeld,2026-03-16,51.94631,4.49002
+M-2026-0146,2026-03-04,21:03,Prins Alexander,Kiekendiefpad,Overig,"Bankje in het park is kapot, er mist een plank.",website,afgehandeld,2026-03-19,51.96308,4.54934
+M-2026-0147,2026-03-05,08:22,Noord,Lindehof,Container vol,"Restafvalcontainer klemt, de klep zit vast.",website,afgehandeld,2026-03-07,51.93349,4.4696
+M-2026-0148,2026-03-05,08:36,Kralingen-Crooswijk,Rietkragenhof,Container vol,Containr vol en het stinkt bij de bushalte.,website,afgehandeld,2026-03-06,51.92667,4.51647
+M-2026-0149,2026-03-05,13:11,Delfshaven,Jeneverkade,Zwerfafval,Na het weekend ligt het hier vol met afval op de hoek met de Kuipershof.,telefoon,afgehandeld,2026-03-08,51.92129,4.44002
+M-2026-0150,2026-03-05,16:37,Noord,Lindehof,Ongedierte,"Veel ratten in de tuintjes op de hoek met de Kanaalstraat, ze komen af op het brood voor de eenden.",app,afgehandeld,2026-03-13,51.93483,4.46684
+M-2026-0151,2026-03-06,08:40,Charlois,Kreekoever,Zwerfafval,Iemand heeft een bank en een matras op straat gezet op de hoek met de Boomgaardstraat.,telefoon,afgehandeld,2026-03-09,51.89444,4.47693
+M-2026-0152,2026-03-07,17:20,Centrum,Pakhuisplein,Container vol,"Restafvalcontainer klemt, de klep zit vast tegenover de supermarkt.",website,afgehandeld,2026-03-08,51.91586,4.48593
+M-2026-0153,2026-03-08,09:56,Prins Alexander,Zevenkampse Hof,Graffiti,Nieuwe tags op het transformatorhuisje op de hoek met de Kiekendiefpad.,website,afgehandeld,2026-03-25,51.95544,4.54976
+M-2026-0154,2026-03-08,17:15,Charlois,Boomgaardstraat,Fietswrak,Verroeste fiets in het rek bij de metro ter hoogte van nummer 90.,website,afgehandeld,2026-04-09,51.88006,4.47013
+M-2026-0155,2026-03-09,08:38,IJsselmonde,Oeverzwaluwstraat,Groen en bomen,"Grote tak afgebroken, hangt nog half aan de boom bij de bushalte.",app,afgehandeld,2026-03-22,51.89677,4.54624
+M-2026-0156,2026-03-09,19:39,Delfshaven,Koolvisstraat,Bestrating,"Losliggende tegels voor nummer 23, het komt door de wortels van de boom.",website,afgehandeld,2026-03-14,51.91212,4.44318
+M-2026-0157,2026-03-09,21:45,Centrum,Tonnenkade,Zwerfafval,"Rommel rond de bankjes naast de speeltuin, meeuwen trekken de zakken open.",telefoon,afgehandeld,2026-03-14,51.92005,4.47733
+M-2026-0158,2026-03-10,09:19,Kralingen-Crooswijk,Plaslaan,Zwerfafval,Glasscherven op het fietspad tegenover de supermarkt. Gevaarlijk voor fietsers.,telefoon,afgehandeld,2026-03-13,51.92982,4.51417
+M-2026-0159,2026-03-12,13:29,Kralingen-Crooswijk,Esdoornpad,Fietswrak,"Fiets zonder wielen in het fietsenrek tegenover de supermarkt, neemt ruimte in.",website,afgehandeld,2026-04-06,51.92711,4.50191
+M-2026-0160,2026-03-13,19:17,Noord,Notenkrakerspad,Ongedierte,"Ratten bij de containers, vooral 's avonds.",app,afgehandeld,2026-03-19,51.93686,4.47665
+M-2026-0161,2026-03-14,07:42,Prins Alexander,Zevenkampse Hof,Zwerfafval,Pizzadozen en flessen in de struiken bij de ingang van het park.,website,afgehandeld,2026-03-18,51.96157,4.55061
+M-2026-0162,2026-03-14,09:34,Feijenoord,Marktveldstraat,Zwerfafval,"Rotte groente en plastic zakken van de markt voor nummer 114, het stinkt.",app,afgehandeld,2026-03-17,51.90133,4.50556
+M-2026-0163,2026-03-14,15:25,Feijenoord,Dokwerkersplein,Zwerfafval,Na de markt liggen er overal kartonnen dozen bij de ingang van het park.,app,afgehandeld,2026-03-16,51.89664,4.49691
+M-2026-0164,2026-03-15,22:36,Charlois,Zuidpolderhof,Bestrating,"Tegels steken omhoog bij de ingang van het park, lastig met de rollator.",app,afgehandeld,2026-03-27,51.87768,4.47645
+M-2026-0165,2026-03-16,18:47,Overschie,Schieoever,Straatverlichting,Lantarenpaal scheef na een aanrijding bij de bushalte.,telefoon,afgehandeld,2026-03-23,51.92893,4.43185
+M-2026-0166,2026-03-16,22:24,Centrum,Tonnenkade,Straatverlichting,Lamp brandt overdag ook.,telefoon,afgehandeld,2026-03-27,51.92252,4.4683
+M-2026-0167,2026-03-17,07:53,Overschie,Landhoeveweg,Straatverlichting,"Donker stuk op het fietspad bij het bankje, de verlichting is kapot.",telefoon,afgehandeld,2026-03-31,51.94311,4.43723
+M-2026-0168,2026-03-18,09:56,Charlois,Hoeveweg,Fietswrak,Fietswrak half in de sloot op de hoek met de Boomgaardstraat.,telefoon,afgehandeld,2026-04-18,51.87591,4.47545
+M-2026-0169,2026-03-19,10:42,Centrum,Stokviswal,Zwerfafval,Iemand heeft een bank en een matras op straat gezet ter hoogte van nummer 53.,app,afgehandeld,2026-03-24,51.92475,4.48514
+M-2026-0170,2026-03-19,13:43,Noord,Kanaalstraat,Groen en bomen,Het gras in het plantsoen wordt niet gemaaid bij de ingang van het park.,telefoon,afgehandeld,2026-03-31,51.92961,4.47178
+M-2026-0171,2026-03-19,16:21,Delfshaven,Touwslagerspad,Zwerfafval,"Er ligt een berg vuilniszakken naast de container bij de ingang van het park, het waait alle kanten op.",app,afgehandeld,2026-03-23,51.91317,4.44574
+M-2026-0172,2026-03-19,18:10,Centrum,Tonnenkade,Fietswrak,Verroeste fiets in het rek bij de metro naast de speeltuin.,app,afgehandeld,2026-04-17,51.91849,4.47608
+M-2026-0173,2026-03-19,21:06,Overschie,Polderzicht,Zwerfafval,"Veel zwerfafval op de stoep bij de bushalte. Blikjes, zakjes en plastic overal.",app,afgehandeld,2026-03-20,51.94349,4.44069
+M-2026-0174,2026-03-21,08:38,Hillegersberg-Schiebroek,Villapark Oost,Zwerfafval,Glasscherven op het fietspad bij het bankje. Gevaarlijk voor fietsers.,website,afgehandeld,2026-03-26,51.94894,4.48926
+M-2026-0175,2026-03-21,09:43,Feijenoord,Marktveldstraat,Zwerfafval,Marktafval waait de straat in.,app,afgehandeld,2026-03-22,51.89838,4.50106
+M-2026-0176,2026-03-21,13:41,Centrum,Pakhuisplein,Groen en bomen,Het gras in het plantsoen wordt niet gemaaid ter hoogte van nummer 114.,app,afgehandeld,2026-04-09,51.92063,4.48459
+M-2026-0177,2026-03-22,07:06,Noord,Notenkrakerspad,Bestrating,"Gat in de weg voor nummer 137, auto's rijden eromheen.",website,afgehandeld,2026-03-31,51.92879,4.47916
+M-2026-0178,2026-03-22,18:12,Overschie,Polderzicht,Container vol,De papiercontainer is al dagen vol.,website,afgehandeld,2026-03-23,51.93852,4.43653
+M-2026-0179,2026-03-23,11:49,Prins Alexander,Kiekendiefpad,Zwerfafval,"Het ligt hier echt vies ter hoogte van nummer 8, wanneer wordt er geveegd?",website,afgehandeld,2026-03-26,51.94936,4.55475
+M-2026-0180,2026-03-24,08:23,Noord,Bloemkweekstraat,Groen en bomen,"Onkruid tussen de tegels bij de ingang van het park, het wordt een wildernis.",website,afgehandeld,2026-04-13,51.9333,4.47146
+M-2026-0181,2026-03-24,10:30,Centrum,Pakhuisplein,Zwerfafval,"Er ligt een berg vuilniszakken naast de container voor nummer 56, het waait alle kanten op.",telefoon,afgehandeld,2026-03-25,51.92225,4.48442
+M-2026-0182,2026-03-24,14:35,Charlois,Zuidpolderhof,Container vol,Containr vol en het stinkt bij de bushalte.,website,afgehandeld,2026-03-25,51.88907,4.46127
+M-2026-0183,2026-03-25,07:48,Hillegersberg-Schiebroek,Rozenbottelstraat,Fietswrak,Verroeste fiets in het rek bij de metro.,website,afgehandeld,2026-04-15,51.95354,4.50315
+M-2026-0184,2026-03-25,08:49,Delfshaven,Koolvisstraat,Bestrating,Voor de derde keer: tegels liggen weer omhoog bij de boom op nummer 23.,website,afgehandeld,2026-03-30,51.91212,4.44318
+M-2026-0185,2026-03-25,10:58,Feijenoord,Marktveldstraat,Zwerfafval,"Na de markt blijft er veel afval achter bij het bankje: kratten, groente en plastic.",website,afgehandeld,2026-03-30,51.90205,4.48916
+M-2026-0186,2026-03-25,13:11,Charlois,Hoeveweg,Bestrating,"Tegels steken omhoog ter hoogte van nummer 132, lastig met de rollator.",app,afgehandeld,2026-04-05,51.88685,4.46886
+M-2026-0187,2026-03-25,13:59,Noord,Kanaalstraat,Groen en bomen,"Dode boom bij het bankje, ik ben bang dat hij omvalt.",app,afgehandeld,2026-04-13,51.93346,4.46968
+M-2026-0188,2026-03-25,17:05,Feijenoord,Marktveldstraat,Groen en bomen,Heg groeit over het fietspad bij de bushalte.,website,afgehandeld,2026-05-03,51.89824,4.49294
+M-2026-0189,2026-03-26,16:18,Centrum,Zeilmakershof,Groen en bomen,Heg groeit over het fietspad.,app,afgehandeld,2026-04-19,51.92556,4.47748
+M-2026-0190,2026-03-27,15:28,Prins Alexander,Zevenkampse Hof,Bestrating,"Tegels steken omhoog naast de speeltuin, lastig met de rollator.",website,afgehandeld,2026-04-04,51.95693,4.54942
+M-2026-0191,2026-03-29,16:47,Overschie,Polderzicht,Ongedierte,"Ratten bij de containers bij de ingang van het park, vooral 's avonds.",telefoon,afgehandeld,2026-04-05,51.94396,4.42292
+M-2026-0192,2026-03-29,18:27,Feijenoord,Brugwachterskade,Straatverlichting,Lantarenpaal scheef na een aanrijding op de hoek met de Laadkraanstraat.,website,afgehandeld,2026-04-04,51.89881,4.50209
+M-2026-0193,2026-03-31,08:55,Prins Alexander,Fluitekruidstraat,Overig,"Veel zwerfafval op de stoep. Blikjes, zakjes en plastic overal.",website,afgehandeld,2026-04-04,51.95423,4.54527
+M-2026-0194,2026-03-31,12:20,Charlois,Dorpsweidepad,Graffiti,Bushokje helemaal beklad.,app,afgehandeld,2026-04-08,51.8807,4.47596
+M-2026-0195,2026-03-31,22:19,IJsselmonde,Rivierhof,Ongedierte,"Veel ratten in de tuintjes bij de bushalte, ze komen af op het brood voor de eenden.",website,afgehandeld,2026-04-04,51.89705,4.54887
+M-2026-0196,2026-04-01,11:30,Charlois,Hoeveweg,Zwerfafval,Glasscherven op het fietspad. Gevaarlijk voor fietsers.,website,afgehandeld,2026-04-02,51.88083,4.46615
+M-2026-0197,2026-04-01,18:54,Centrum,Pakhuisplein,Groen en bomen,Heg groeit over het fietspad tegenover de supermarkt.,website,afgehandeld,2026-04-24,51.91695,4.48396
+M-2026-0198,2026-04-01,20:13,Overschie,Zandweg Oost,Straatverlichting,Lantarenpaal scheef na een aanrijding.,app,afgehandeld,2026-04-11,51.93783,4.43032
+M-2026-0199,2026-04-04,07:11,Hillegersberg-Schiebroek,Villapark Oost,Zwerfafval,Pizzadozen en flessen in de struiken bij het bankje.,website,afgehandeld,2026-04-07,51.94841,4.49702
+M-2026-0200,2026-04-04,07:15,Centrum,Pakhuisplein,Container vol,Ondergrondse container gaat niet meer open op de hoek met de Tonnenkade.,website,afgehandeld,2026-04-07,51.91933,4.47955
+M-2026-0201,2026-04-04,16:02,Feijenoord,Marktveldstraat,Zwerfafval,Marktafval waait de straat in op de hoek met de Pakhuisweg.,website,afgehandeld,2026-04-09,51.9042,4.5029
+M-2026-0202,2026-04-04,18:17,Centrum,Koopmansgang,Graffiti,Graffiti op de brugleuning tegenover de supermarkt.,website,afgehandeld,2026-04-25,51.92682,4.47891
+M-2026-0203,2026-04-04,18:45,Kralingen-Crooswijk,Crooswijkse Boog,Zwerfafval,Glasscherven op het fietspad naast de speeltuin. Gevaarlijk voor fietsers.,website,afgehandeld,2026-04-08,51.92475,4.51388
+M-2026-0204,2026-04-04,22:52,Delfshaven,Kuipershof,Graffiti,Nieuwe tags op het transformatorhuisje ter hoogte van nummer 97.,website,afgehandeld,2026-04-11,51.9199,4.44749
+M-2026-0205,2026-04-05,12:52,Delfshaven,Mouterijstraat,Container vol,Ondergrondse container gaat niet meer open op de hoek met de Kuipershof.,app,afgehandeld,2026-04-06,51.9106,4.45976
+M-2026-0206,2026-04-06,15:57,Noord,Spoorbaanstraat,Zwerfafval,Pizzadozen en flessen in de struiken op de hoek met de Kanaalstraat.,telefoon,afgehandeld,2026-04-07,51.94253,4.47591
+M-2026-0207,2026-04-06,16:20,IJsselmonde,Dijkwachterslaan,Zwerfafval,"Veel zwerfafval op de stoep. Blikjes, zakjes en plastic overal.",website,afgehandeld,2026-04-11,51.88633,4.53583
+M-2026-0208,2026-04-06,20:49,Centrum,Tonnenkade,Container vol,Ondergrondse container gaat niet meer open.,website,afgehandeld,2026-04-08,51.91945,4.47299
+M-2026-0209,2026-04-07,08:52,Feijenoord,Brugwachterskade,Zwerfafval,"Er ligt een berg vuilniszakken naast de container, het waait alle kanten op.",website,afgehandeld,2026-04-10,51.90083,4.5048
+M-2026-0210,2026-04-07,12:04,Feijenoord,Pakhuisweg,Zwerfafval,Na het weekend ligt het hier vol met afval.,website,afgehandeld,2026-04-10,51.9028,4.49796
+M-2026-0211,2026-04-08,16:10,Feijenoord,Marktveldstraat,Zwerfafval,"Na de markt blijft er veel afval achter: kratten, groente en plastic.",website,afgehandeld,2026-04-10,51.89958,4.49536
+M-2026-0212,2026-04-09,09:20,Feijenoord,Brugwachterskade,Container vol,"Glasbak vol, mensen zetten flessen ernaast op de hoek met de Marktveldstraat.",telefoon,afgehandeld,2026-04-11,51.89661,4.4956
+M-2026-0213,2026-04-09,10:36,Prins Alexander,Zevenkampse Hof,Container vol,Ondergrondse container gaat niet meer open tegenover de supermarkt.,website,afgehandeld,2026-04-11,51.95557,4.55541
+M-2026-0214,2026-04-09,13:56,Charlois,Zuidpolderhof,Zwerfafval,Na het weekend ligt het hier vol met afval.,telefoon,afgehandeld,2026-04-14,51.88744,4.46296
+M-2026-0215,2026-04-09,14:44,Feijenoord,Laadkraanstraat,Overig,Containr vol en het stinkt ter hoogte van nummer 30.,app,afgehandeld,2026-04-10,51.89659,4.49804
+M-2026-0216,2026-04-10,11:49,Delfshaven,Koolvisstraat,Bestrating,Tegels bij de boom voor nummer 23 liggen alweer omhoog.,telefoon,afgehandeld,2026-04-15,51.91212,4.44318
+M-2026-0217,2026-04-10,19:31,Delfshaven,Koolvisstraat,Bestrating,"Verzakte stoep ter hoogte van nummer 105, er blijft steeds water staan.",app,afgehandeld,2026-04-19,51.90873,4.43912
+M-2026-0218,2026-04-11,08:00,IJsselmonde,Weidevogelpad,Zwerfafval,Na het weekend ligt het hier vol met afval bij het bankje.,app,afgehandeld,2026-04-13,51.89377,4.54373
+M-2026-0219,2026-04-11,14:56,Kralingen-Crooswijk,Esdoornpad,Container vol,"Container zit vol, zakken staan ernaast bij de ingang van het park.",website,afgehandeld,2026-04-13,51.92787,4.51166
+M-2026-0220,2026-04-12,16:50,IJsselmonde,Dijkwachterslaan,Container vol,"Restafvalcontainer klemt, de klep zit vast voor nummer 6.",website,afgehandeld,2026-04-13,51.89225,4.55422
+M-2026-0221,2026-04-13,12:21,Noord,Bloemkweekstraat,Zwerfafval,"Veel zwerfafval op de stoep. Blikjes, zakjes en plastic overal.",website,afgehandeld,2026-04-18,51.93359,4.47614
+M-2026-0222,2026-04-13,14:41,IJsselmonde,Dijkwachterslaan,Zwerfafval,Glasscherven op het fietspad bij de bushalte. Gevaarlijk voor fietsers.,website,afgehandeld,2026-04-17,51.89682,4.54913
+M-2026-0223,2026-04-13,14:51,Centrum,Stokviswal,Zwerfafval,Glasscherven op het fietspad bij de bushalte. Gevaarlijk voor fietsers.,app,afgehandeld,2026-04-18,51.92328,4.47149
+M-2026-0224,2026-04-14,12:46,Noord,Lindehof,Zwerfafval,"Er ligt een berg vuilniszakken naast de container bij de ingang van het park, het waait alle kanten op.",telefoon,afgehandeld,2026-04-17,51.93817,4.4865
+M-2026-0225,2026-04-14,21:00,Centrum,Tonnenkade,Straatverlichting,Lamp brandt overdag ook.,telefoon,afgehandeld,2026-04-18,51.91947,4.46087
+M-2026-0226,2026-04-16,09:00,Delfshaven,Koolvisstraat,Zwerfafval,"Zwerfvuil langs de waterkant bij de ingang van het park, flessen drijven in het water.",website,afgehandeld,2026-04-19,51.91524,4.44516
+M-2026-0227,2026-04-16,15:01,Feijenoord,Pakhuisweg,Overig,Klinkers liggen los op het kruispunt.,telefoon,afgehandeld,2026-04-20,51.89557,4.50107
+M-2026-0228,2026-04-16,19:43,Delfshaven,Mouterijstraat,Zwerfafval,Glasscherven op het fietspad ter hoogte van nummer 117. Gevaarlijk voor fietsers.,website,afgehandeld,2026-04-21,51.91016,4.44469
+M-2026-0229,2026-04-18,12:11,Delfshaven,Mouterijstraat,Groen en bomen,Het gras in het plantsoen wordt niet gemaaid.,telefoon,afgehandeld,2026-05-15,51.91355,4.44086
+M-2026-0230,2026-04-18,22:21,Noord,Notenkrakerspad,Straatverlichting,Lamp brandt overdag ook tegenover de supermarkt.,app,afgehandeld,2026-04-24,51.93588,4.47121
+M-2026-0231,2026-04-19,10:37,Prins Alexander,Tuinstadlaan,Bestrating,"Verzakte stoep naast de speeltuin, er blijft steeds water staan.",app,afgehandeld,2026-04-23,51.95922,4.55199
+M-2026-0232,2026-04-19,15:46,IJsselmonde,Dijkwachterslaan,Graffiti,"Iemand heeft het verkeersbord beklad, je kunt het niet meer lezen.",app,afgehandeld,2026-05-05,51.89132,4.54091
+M-2026-0233,2026-04-19,17:34,Noord,Lindehof,Graffiti,Nieuwe tags op het transformatorhuisje bij de bushalte.,website,afgehandeld,2026-04-27,51.93634,4.46099
+M-2026-0234,2026-04-20,16:38,Centrum,Pakhuisplein,Zwerfafval,Pizzadozen en flessen in de struiken voor nummer 42.,app,afgehandeld,2026-04-22,51.9199,4.4844
+M-2026-0235,2026-04-20,22:07,Noord,Spoorbaanstraat,Overig,Het gras in het plantsoen wordt niet gemaaid bij de ingang van het park.,website,afgehandeld,2026-05-29,51.93515,4.46564
+M-2026-0236,2026-04-21,17:02,IJsselmonde,Smeltkroesstraat,Bestrating,"Gat in de weg voor nummer 51, auto's rijden eromheen.",website,afgehandeld,2026-04-26,51.88608,4.55864
+M-2026-0237,2026-04-22,07:25,Feijenoord,Dokwerkersplein,Zwerfafval,"Na de markt blijft er veel afval achter: kratten, groente en plastic.",website,afgehandeld,2026-04-24,51.90377,4.50105
+M-2026-0238,2026-04-22,09:15,Delfshaven,Koolvisstraat,Zwerfafval,"Rommel rond de bankjes, meeuwen trekken de zakken open.",app,afgehandeld,2026-04-26,51.91076,4.44707
+M-2026-0239,2026-04-22,17:15,IJsselmonde,Dijkwachterslaan,Zwerfafval,"Er ligt een berg vuilniszakken naast de container, het waait alle kanten op.",app,afgehandeld,2026-04-24,51.88436,4.535
+M-2026-0240,2026-04-22,17:21,Kralingen-Crooswijk,Plaslaan,Bestrating,"Losliggende stoeptegels, ik ben bijna gevallen.",app,afgehandeld,2026-05-01,51.92487,4.50641
+M-2026-0241,2026-04-22,18:58,Prins Alexander,Zevenkampse Hof,Bestrating,"Losliggende stoeptegels, ik ben bijna gevallen.",app,afgehandeld,2026-04-26,51.95349,4.54989
+M-2026-0242,2026-04-22,19:13,Overschie,Polderzicht,Zwerfafval,Iemand heeft een bank en een matras op straat gezet.,website,afgehandeld,2026-04-23,51.94037,4.43164
+M-2026-0243,2026-04-23,12:03,Prins Alexander,Kiekendiefpad,Zwerfafval,"Het ligt hier echt vies tegenover de supermarkt, wanneer wordt er geveegd?",app,afgehandeld,2026-04-27,51.96119,4.55372
+M-2026-0244,2026-04-23,19:11,Overschie,Landhoeveweg,Groen en bomen,Het gras in het plantsoen wordt niet gemaaid bij de bushalte.,app,afgehandeld,2026-06-02,51.93342,4.43375
+M-2026-0245,2026-04-24,19:22,Kralingen-Crooswijk,Plaslaan,Zwerfafval,"Het ligt hier echt vies, wanneer wordt er geveegd?",website,afgehandeld,2026-04-29,51.92425,4.50925
+M-2026-0246,2026-04-25,09:07,Feijenoord,Dokwerkersplein,Zwerfafval,"Na de markt blijft er veel afval achter: kratten, groente en plastic.",app,afgehandeld,2026-04-26,51.9023,4.51234
+M-2026-0247,2026-04-25,09:42,Prins Alexander,Kiekendiefpad,Overig,"Glasbak vol, mensen zetten flessen ernaast voor nummer 136.",website,afgehandeld,2026-04-26,51.95471,4.55683
+M-2026-0248,2026-04-25,10:24,Delfshaven,Kuipershof,Overig,De papiercontainer is al dagen vol voor nummer 72.,app,afgehandeld,2026-04-27,51.91435,4.44004
+M-2026-0249,2026-04-25,10:45,Charlois,Kreekoever,Graffiti,"Iemand heeft het verkeersbord beklad ter hoogte van nummer 99, je kunt het niet meer lezen.",app,afgehandeld,2026-05-05,51.88307,4.46678
+M-2026-0250,2026-04-25,18:40,Feijenoord,Dokwerkersplein,Zwerfafval,Na de markt liggen er overal kartonnen dozen ter hoogte van nummer 22.,website,afgehandeld,2026-04-29,51.90633,4.49627
+M-2026-0251,2026-04-26,07:45,Centrum,Pakhuisplein,Bestrating,"Verzakte stoep, er blijft steeds water staan.",website,afgehandeld,2026-05-08,51.91553,4.47693
+M-2026-0252,2026-04-26,08:09,Kralingen-Crooswijk,Crooswijkse Boog,Zwerfafval,"Er ligt een berg vuilniszakken naast de container, het waait alle kanten op.",app,afgehandeld,2026-04-28,51.92062,4.5063
+M-2026-0253,2026-04-26,09:45,Charlois,Zuidpolderhof,Zwerfafval,"Veel zwerfafval op de stoep naast de speeltuin. Blikjes, zakjes en plastic overal.",app,afgehandeld,2026-04-30,51.88223,4.47877
+M-2026-0254,2026-04-26,13:37,Delfshaven,Koolvisstraat,Bestrating,Kunnen jullie niet eens iets aan die boom doen? Tegels nummer 23 weer los.,telefoon,afgehandeld,2026-05-02,51.91212,4.44318
+M-2026-0255,2026-04-26,17:10,Feijenoord,Dokwerkersplein,Groen en bomen,Het gras in het plantsoen wordt niet gemaaid op de hoek met de Laadkraanstraat.,website,afgehandeld,2026-06-02,51.89713,4.49331
+M-2026-0256,2026-04-26,17:32,Noord,Notenkrakerspad,Ongedierte,"Duiven nestelen onder het viaduct bij de ingang van het park, alles zit onder de poep.",website,afgehandeld,2026-05-03,51.9283,4.46368
+M-2026-0257,2026-04-26,22:13,Delfshaven,Kuipershof,Overig,Loslopende kippen in het plantsoen bij de bushalte. Van wie zijn die?,website,afgehandeld,2026-05-15,51.9132,4.44388
+M-2026-0258,2026-04-27,21:55,Kralingen-Crooswijk,Esdoornpad,Zwerfafval,"Het ligt hier echt vies bij de bushalte, wanneer wordt er geveegd?",app,afgehandeld,2026-04-30,51.92899,4.50211
+M-2026-0259,2026-04-28,11:47,IJsselmonde,Smeltkroesstraat,Graffiti,Graffiti op de brugleuning ter hoogte van nummer 51.,telefoon,afgehandeld,2026-05-11,51.88707,4.54034
+M-2026-0260,2026-04-28,23:04,Kralingen-Crooswijk,Plaslaan,Straatverlichting,"Donker stuk op het fietspad tegenover de supermarkt, de verlichting is kapot.",website,afgehandeld,2026-05-12,51.92022,4.52285
+M-2026-0261,2026-04-29,16:25,Feijenoord,Marktveldstraat,Zwerfafval,"Na de markt blijft er veel afval achter ter hoogte van nummer 29: kratten, groente en plastic.",app,afgehandeld,2026-05-04,51.89953,4.50285
+M-2026-0262,2026-04-30,14:52,Centrum,Tonnenkade,Groen en bomen,"Onkruid tussen de tegels op de hoek met de Stokviswal, het wordt een wildernis.",app,afgehandeld,2026-06-13,51.92165,4.48116
+M-2026-0263,2026-05-01,11:24,Delfshaven,Touwslagerspad,Fietswrak,Fietswrak half in de sloot bij de bushalte.,website,afgehandeld,2026-05-16,51.90864,4.45021
+M-2026-0264,2026-05-01,18:19,IJsselmonde,Oeverzwaluwstraat,Fietswrak,Fietswrak staat al maanden vast aan het hek bij de ingang van het park.,app,afgehandeld,2026-05-26,51.88686,4.55309
+M-2026-0265,2026-05-02,11:55,Charlois,Hoeveweg,Fietswrak,Verroeste fiets in het rek bij de metro op de hoek met de Zuidpolderhof.,app,afgehandeld,2026-05-16,51.88133,4.46205
+M-2026-0266,2026-05-02,13:50,Prins Alexander,Zevenkampse Hof,Graffiti,Graffiti op de muur van de school.,telefoon,afgehandeld,2026-05-08,51.95602,4.55206
+M-2026-0267,2026-05-02,21:07,Delfshaven,Jeneverkade,Straatverlichting,Lamp brandt overdag ook op de hoek met de Koolvisstraat.,telefoon,afgehandeld,2026-05-15,51.90947,4.44439
+M-2026-0268,2026-05-03,12:11,Charlois,Dorpsweidepad,Graffiti,Graffiti op de muur van de school.,app,afgehandeld,2026-05-14,51.88465,4.47075
+M-2026-0269,2026-05-03,13:54,Hillegersberg-Schiebroek,Plassenkade,Zwerfafval,Pizzadozen en flessen in de struiken.,website,afgehandeld,2026-05-04,51.95345,4.48842
+M-2026-0270,2026-05-04,08:57,Kralingen-Crooswijk,Molenwiekstraat,Overig,Loslopende kippen in het plantsoen op de hoek met de Plaslaan. Van wie zijn die?,app,afgehandeld,2026-05-15,51.93221,4.51197
+M-2026-0271,2026-05-05,17:06,Delfshaven,Koolvisstraat,Groen en bomen,"Overhangende takken op de hoek met de Jeneverkade, je kunt er niet meer langs met de kinderwagen.",telefoon,afgehandeld,2026-06-08,51.90858,4.45662
+M-2026-0272,2026-05-07,09:56,Hillegersberg-Schiebroek,Villapark Oost,Bestrating,"Losliggende stoeptegels naast de speeltuin, ik ben bijna gevallen.",app,afgehandeld,2026-05-13,51.95596,4.49056
+M-2026-0273,2026-05-07,11:34,Hillegersberg-Schiebroek,Plassenkade,Container vol,"Glasbak vol, mensen zetten flessen ernaast.",app,afgehandeld,2026-05-08,51.94598,4.48887
+M-2026-0274,2026-05-07,22:29,Prins Alexander,Zevenkampse Hof,Container vol,Ondergrondse container gaat niet meer open.,app,afgehandeld,2026-05-09,51.95651,4.55166
+M-2026-0275,2026-05-08,07:32,Centrum,Stokviswal,Ongedierte,"Veel ratten in de tuintjes bij het bankje, ze komen af op het brood voor de eenden.",website,afgehandeld,2026-05-16,51.92296,4.48132
+M-2026-0276,2026-05-08,10:46,Noord,Spoorbaanstraat,Bestrating,"Gat in de weg bij de ingang van het park, auto's rijden eromheen.",website,afgehandeld,2026-05-14,51.94043,4.47499
+M-2026-0277,2026-05-08,21:32,Centrum,Pakhuisplein,Zwerfafval,Pizzadozen en flessen in de struiken.,app,afgehandeld,2026-05-12,51.91993,4.48605
+M-2026-0278,2026-05-09,08:05,Feijenoord,Dokwerkersplein,Zwerfafval,Marktafval waait de straat in ter hoogte van nummer 112.,app,afgehandeld,2026-05-11,51.89938,4.50318
+M-2026-0279,2026-05-09,09:40,Charlois,Boomgaardstraat,Overig,Prullenbak is van de paal gereden naast de speeltuin.,website,afgehandeld,2026-05-26,51.88361,4.47082
+M-2026-0280,2026-05-09,13:04,Overschie,Schieoever,Zwerfafval,"Het ligt hier echt vies bij het bankje, wanneer wordt er geveegd?",website,afgehandeld,2026-05-11,51.93778,4.42667
+M-2026-0281,2026-05-09,15:31,Feijenoord,Dokwerkersplein,Zwerfafval,Glasscherven op het fietspad op de hoek met de Brugwachterskade. Gevaarlijk voor fietsers.,telefoon,afgehandeld,2026-05-14,51.9005,4.50627
+M-2026-0282,2026-05-09,19:07,Overschie,Molensloot,Zwerfafval,"Er ligt een berg vuilniszakken naast de container tegenover de supermarkt, het waait alle kanten op.",website,afgehandeld,2026-05-14,51.93803,4.43581
+M-2026-0283,2026-05-09,22:59,Feijenoord,Marktveldstraat,Zwerfafval,Na de markt liggen er overal kartonnen dozen ter hoogte van nummer 7.,app,afgehandeld,2026-05-10,51.90313,4.50006
+M-2026-0284,2026-05-11,07:02,Prins Alexander,Parkzoomlaan,Zwerfafval,Iemand heeft een bank en een matras op straat gezet tegenover de supermarkt.,website,afgehandeld,2026-05-12,51.95675,4.55179
+M-2026-0285,2026-05-11,09:25,Feijenoord,Pakhuisweg,Zwerfafval,"Er ligt een berg vuilniszakken naast de container naast de speeltuin, het waait alle kanten op.",telefoon,afgehandeld,2026-05-15,51.91039,4.49892
+M-2026-0286,2026-05-12,12:21,Prins Alexander,Parkzoomlaan,Ongedierte,Wespennest in de lantaarnpaal bij het bankje.,website,afgehandeld,2026-05-22,51.95488,4.55528
+M-2026-0287,2026-05-12,17:37,Delfshaven,Koolvisstraat,Bestrating,Kunnen jullie niet eens iets aan die boom doen? Tegels nummer 23 weer los.,app,afgehandeld,2026-05-17,51.91212,4.44318
+M-2026-0288,2026-05-13,08:41,Noord,Lindehof,Graffiti,Nieuwe tags op het transformatorhuisje tegenover de supermarkt.,website,afgehandeld,2026-05-24,51.92547,4.47233
+M-2026-0289,2026-05-14,10:00,Charlois,Kreekoever,Overig,"Er ligt een berg vuilniszakken naast de container op de hoek met de Zuidpolderhof, het waait alle kanten op.",app,afgehandeld,2026-05-15,51.88259,4.47752
+M-2026-0290,2026-05-15,13:43,IJsselmonde,Oeverzwaluwstraat,Fietswrak,Fietswrak half in de sloot.,website,afgehandeld,2026-06-01,51.89286,4.55013
+M-2026-0291,2026-05-15,22:26,Kralingen-Crooswijk,Esdoornpad,Straatverlichting,"Drie lampen achter elkaar uit op de hoek met de Plaslaan, geeft een onveilig gevoel.",app,afgehandeld,2026-05-28,51.92636,4.50422
+M-2026-0292,2026-05-16,12:19,Overschie,Polderzicht,Zwerfafval,Iemand heeft een bank en een matras op straat gezet bij de bushalte.,app,afgehandeld,2026-05-18,51.93423,4.42937
+M-2026-0293,2026-05-16,18:00,Noord,Kanaalstraat,Bestrating,Putdeksel ligt los en klappert.,website,afgehandeld,2026-05-26,51.935,4.47236
+M-2026-0294,2026-05-18,10:18,Centrum,Tonnenkade,Zwerfafval,"Zwerfvuil langs de waterkant, flessen drijven in het water.",app,afgehandeld,2026-05-20,51.92036,4.47934
+M-2026-0295,2026-05-19,11:26,IJsselmonde,Oeverzwaluwstraat,Bestrating,"Verzakte stoep ter hoogte van nummer 40, er blijft steeds water staan.",website,afgehandeld,2026-05-23,51.88699,4.54675
+M-2026-0296,2026-05-20,11:40,Centrum,Koopmansgang,Graffiti,Graffiti op de muur van de school bij de bushalte.,app,afgehandeld,2026-05-27,51.92156,4.48304
+M-2026-0297,2026-05-21,10:23,Feijenoord,Marktveldstraat,Zwerfafval,Glasscherven op het fietspad naast de speeltuin. Gevaarlijk voor fietsers.,telefoon,afgehandeld,2026-05-23,51.89601,4.50423
+M-2026-0298,2026-05-21,14:08,Feijenoord,Laadkraanstraat,Zwerfafval,"Het ligt hier echt vies tegenover de supermarkt, wanneer wordt er geveegd?",website,afgehandeld,2026-05-26,51.90397,4.5034
+M-2026-0299,2026-05-22,09:27,Hillegersberg-Schiebroek,Plassenkade,Zwerfafval,Iemand heeft een bank en een matras op straat gezet naast de speeltuin.,website,afgehandeld,2026-05-26,51.95385,4.47698
+M-2026-0300,2026-05-23,07:25,Overschie,Zandweg Oost,Zwerfafval,"Het ligt hier echt vies tegenover de supermarkt, wanneer wordt er geveegd?",website,afgehandeld,2026-05-28,51.94337,4.42643
+M-2026-0301,2026-05-23,10:09,Delfshaven,Kuipershof,Fietswrak,"Fiets zonder wielen in het fietsenrek ter hoogte van nummer 100, neemt ruimte in.",website,afgehandeld,2026-06-23,51.91215,4.441
+M-2026-0302,2026-05-23,17:12,Feijenoord,Marktveldstraat,Zwerfafval,"Rotte groente en plastic zakken van de markt voor nummer 138, het stinkt.",telefoon,afgehandeld,2026-05-25,51.89666,4.51562
+M-2026-0303,2026-05-23,20:02,Prins Alexander,Kiekendiefpad,Zwerfafval,"Zwerfvuil langs de waterkant bij de ingang van het park, flessen drijven in het water.",app,afgehandeld,2026-05-25,51.96198,4.53856
+M-2026-0304,2026-05-23,20:13,Feijenoord,Marktveldstraat,Zwerfafval,Na de markt liggen er overal kartonnen dozen op de hoek met de Pakhuisweg.,app,afgehandeld,2026-05-28,51.89298,4.51272
+M-2026-0305,2026-05-24,13:38,IJsselmonde,Dijkwachterslaan,Groen en bomen,Heg groeit over het fietspad voor nummer 38.,app,afgehandeld,2026-07-06,51.8936,4.54427
+M-2026-0306,2026-05-24,18:14,Centrum,Zeilmakershof,Zwerfafval,Pizzadozen en flessen in de struiken.,app,afgehandeld,2026-05-27,51.92076,4.489
+M-2026-0307,2026-05-25,15:37,Delfshaven,Koolvisstraat,Bestrating,Kunnen jullie niet eens iets aan die boom doen? Tegels nummer 23 weer los.,website,afgehandeld,2026-05-30,51.91212,4.44318
+M-2026-0308,2026-05-27,10:51,Feijenoord,Marktveldstraat,Zwerfafval,Na de markt liggen er overal kartonnen dozen.,app,afgehandeld,2026-06-01,51.89769,4.50936
+M-2026-0309,2026-05-27,11:00,Feijenoord,Dokwerkersplein,Zwerfafval,"Na de markt blijft er veel afval achter: kratten, groente en plastic.",website,afgehandeld,2026-05-30,51.90096,4.4998
+M-2026-0310,2026-05-27,12:42,Charlois,Hoeveweg,Overig,Loslopende kippen in het plantsoen bij het bankje. Van wie zijn die?,website,afgehandeld,2026-06-06,51.87963,4.47915
+M-2026-0311,2026-05-27,17:35,Noord,Lindehof,Zwerfafval,"Zwerfvuil langs de waterkant tegenover de supermarkt, flessen drijven in het water.",telefoon,afgehandeld,2026-05-31,51.93916,4.47399
+M-2026-0312,2026-05-27,23:28,Noord,Bloemkweekstraat,Straatverlichting,Lantaarnpaal doet het niet. Het is hier 's avonds heel donker.,app,afgehandeld,2026-06-03,51.93378,4.46302
+M-2026-0313,2026-05-28,20:39,Centrum,Tonnenkade,Fietswrak,Fietswrak half in de sloot voor nummer 52.,website,afgehandeld,2026-06-30,51.92253,4.48875
+M-2026-0314,2026-05-29,18:53,Delfshaven,Touwslagerspad,Straatverlichting,Lamp brandt overdag ook bij de bushalte.,app,afgehandeld,2026-06-04,51.91114,4.44601
+M-2026-0315,2026-05-31,10:49,Prins Alexander,Kiekendiefpad,Bestrating,Putdeksel ligt los en klappert naast de speeltuin.,app,afgehandeld,2026-06-04,51.94839,4.55509
+M-2026-0316,2026-06-01,09:33,Noord,Notenkrakerspad,Zwerfafval,"Veel zwerfafval op de stoep tegenover de supermarkt. Blikjes, zakjes en plastic overal.",app,afgehandeld,2026-06-05,51.93553,4.47558
+M-2026-0317,2026-06-01,10:40,IJsselmonde,Oeverzwaluwstraat,Zwerfafval,"Het ligt hier echt vies op de hoek met de Smeltkroesstraat, wanneer wordt er geveegd?",website,afgehandeld,2026-06-06,51.89162,4.53581
+M-2026-0318,2026-06-01,12:45,Charlois,Boomgaardstraat,Bestrating,"Gat in de weg, auto's rijden eromheen.",app,afgehandeld,2026-06-11,51.88173,4.47284
+M-2026-0319,2026-06-02,10:31,Noord,Lindehof,Zwerfafval,"Zwerfvuil langs de waterkant ter hoogte van nummer 24, flessen drijven in het water.",telefoon,afgehandeld,2026-06-06,51.93218,4.47255
+M-2026-0320,2026-06-02,14:41,Prins Alexander,Zevenkampse Hof,Bestrating,"Tegels steken omhoog naast de speeltuin, lastig met de rollator.",telefoon,afgehandeld,2026-06-12,51.95592,4.55859
+M-2026-0321,2026-06-02,16:37,Charlois,Kreekoever,Ongedierte,"Veel ratten in de tuintjes bij het bankje, ze komen af op het brood voor de eenden.",app,afgehandeld,2026-06-06,51.89265,4.46407
+M-2026-0322,2026-06-02,22:11,Delfshaven,Kuipershof,Zwerfafval,"Veel zwerfafval op de stoep. Blikjes, zakjes en plastic overal.",telefoon,afgehandeld,2026-06-06,51.91952,4.44203
+M-2026-0323,2026-06-03,09:34,Kralingen-Crooswijk,Molenwiekstraat,Ongedierte,Wespennest in de lantaarnpaal.,telefoon,afgehandeld,2026-06-06,51.92468,4.51679
+M-2026-0324,2026-06-03,12:42,Kralingen-Crooswijk,Molenwiekstraat,Groen en bomen,Het gras in het plantsoen wordt niet gemaaid op de hoek met de Plaslaan.,telefoon,afgehandeld,2026-06-27,51.92951,4.50855
+M-2026-0325,2026-06-03,14:39,Charlois,Dorpsweidepad,Bestrating,"Losliggende stoeptegels bij het bankje, ik ben bijna gevallen.",website,afgehandeld,2026-06-14,51.89422,4.4626
+M-2026-0326,2026-06-03,14:41,Kralingen-Crooswijk,Rietkragenhof,Ongedierte,Wespennest in de lantaarnpaal bij het bankje.,app,afgehandeld,2026-06-10,51.92282,4.50033
+M-2026-0327,2026-06-03,21:35,Feijenoord,Brugwachterskade,Graffiti,Graffiti op de muur van de school tegenover de supermarkt.,website,afgehandeld,2026-06-21,51.89525,4.49072
+M-2026-0328,2026-06-04,19:44,Hillegersberg-Schiebroek,Wilgenwal,Container vol,Containr vol en het stinkt naast de speeltuin.,app,afgehandeld,2026-06-05,51.95271,4.48954
+M-2026-0329,2026-06-04,21:02,Centrum,Zeilmakershof,Container vol,"Restafvalcontainer klemt, de klep zit vast ter hoogte van nummer 63.",website,afgehandeld,2026-06-05,51.92523,4.4695
+M-2026-0330,2026-06-05,13:35,Kralingen-Crooswijk,Molenwiekstraat,Overig,Graffiti op de brugleuning voor nummer 135.,website,afgehandeld,2026-06-22,51.92481,4.5073
+M-2026-0331,2026-06-05,16:46,Kralingen-Crooswijk,Rietkragenhof,Bestrating,Putdeksel ligt los en klappert voor nummer 11.,website,afgehandeld,2026-06-09,51.92923,4.51029
+M-2026-0332,2026-06-06,14:07,Kralingen-Crooswijk,Crooswijkse Boog,Zwerfafval,Iemand heeft een bank en een matras op straat gezet tegenover de supermarkt.,telefoon,afgehandeld,2026-06-09,51.9277,4.51739
+M-2026-0333,2026-06-06,17:10,Feijenoord,Dokwerkersplein,Zwerfafval,"Na de markt blijft er veel afval achter op de hoek met de Laadkraanstraat: kratten, groente en plastic.",telefoon,afgehandeld,2026-06-07,51.89741,4.49402
+M-2026-0334,2026-06-07,15:25,Kralingen-Crooswijk,Esdoornpad,Fietswrak,Verroeste fiets in het rek bij de metro op de hoek met de Plaslaan.,website,afgehandeld,2026-07-02,51.92571,4.50774
+M-2026-0335,2026-06-08,10:27,Centrum,Tonnenkade,Zwerfafval,Iemand heeft een bank en een matras op straat gezet voor nummer 108.,website,afgehandeld,2026-06-12,51.91566,4.47497
+M-2026-0336,2026-06-08,11:33,Centrum,Tonnenkade,Zwerfafval,"Veel zwerfafval op de stoep bij de ingang van het park. Blikjes, zakjes en plastic overal.",website,afgehandeld,2026-06-11,51.92509,4.47605
+M-2026-0337,2026-06-08,12:44,Noord,Kanaalstraat,Groen en bomen,Het gras in het plantsoen wordt niet gemaaid tegenover de supermarkt.,app,afgehandeld,2026-06-24,51.93655,4.48219
+M-2026-0338,2026-06-08,18:11,Feijenoord,Pakhuisweg,Groen en bomen,Heg groeit over het fietspad op de hoek met de Laadkraanstraat.,app,afgehandeld,2026-06-25,51.89418,4.49965
+M-2026-0339,2026-06-09,08:56,Delfshaven,Koolvisstraat,Bestrating,Weer losse tegels bij nummer 23. Dit was toch gemaakt?,website,afgehandeld,2026-06-14,51.91212,4.44318
+M-2026-0340,2026-06-10,08:44,Feijenoord,Marktveldstraat,Zwerfafval,Na de markt liggen er overal kartonnen dozen voor nummer 11.,website,afgehandeld,2026-06-15,51.89825,4.51324
+M-2026-0341,2026-06-10,12:09,Feijenoord,Dokwerkersplein,Zwerfafval,Na de markt liggen er overal kartonnen dozen.,website,afgehandeld,2026-06-14,51.89337,4.4949
+M-2026-0342,2026-06-10,13:53,Delfshaven,Kuipershof,Fietswrak,Verroeste fiets in het rek bij de metro.,website,afgehandeld,2026-07-08,51.91174,4.44387
+M-2026-0343,2026-06-10,20:28,Charlois,Boomgaardstraat,Graffiti,Graffiti op de muur van de school.,telefoon,afgehandeld,2026-06-18,51.88707,4.48022
+M-2026-0344,2026-06-11,17:51,Delfshaven,Jeneverkade,Fietswrak,Verroeste fiets in het rek bij de metro bij het bankje.,website,afgehandeld,2026-07-14,51.90901,4.43652
+M-2026-0345,2026-06-11,18:01,Centrum,Zeilmakershof,Fietswrak,"Fiets zonder wielen in het fietsenrek op de hoek met de Tonnenkade, neemt ruimte in.",website,afgehandeld,2026-07-14,51.9196,4.48472
+M-2026-0346,2026-06-12,12:52,Hillegersberg-Schiebroek,Plassenkade,Overig,"Veel zwerfafval op de stoep naast de speeltuin. Blikjes, zakjes en plastic overal.",website,afgehandeld,2026-06-15,51.94856,4.49129
+M-2026-0347,2026-06-13,16:52,Noord,Spoorbaanstraat,Zwerfafval,Na het weekend ligt het hier vol met afval voor nummer 11.,website,afgehandeld,2026-06-14,51.93403,4.46291
+M-2026-0348,2026-06-14,11:43,Kralingen-Crooswijk,Rietkragenhof,Fietswrak,Fietswrak half in de sloot bij de bushalte.,website,afgehandeld,2026-07-16,51.92476,4.50166
+M-2026-0349,2026-06-15,07:24,Centrum,Pakhuisplein,Overig,"Veel zwerfafval op de stoep bij het bankje. Blikjes, zakjes en plastic overal.",app,afgehandeld,2026-06-16,51.93086,4.4764
+M-2026-0350,2026-06-15,08:48,Kralingen-Crooswijk,Plaslaan,Zwerfafval,Iemand heeft een bank en een matras op straat gezet bij de bushalte.,website,afgehandeld,2026-06-17,51.92646,4.5253
+M-2026-0351,2026-06-16,20:50,Overschie,Landhoeveweg,Graffiti,"Iemand heeft het verkeersbord beklad bij de bushalte, je kunt het niet meer lezen.",website,afgehandeld,2026-07-05,51.93987,4.42897
+M-2026-0352,2026-06-17,11:07,Charlois,Hoeveweg,Container vol,De papiercontainer is al dagen vol naast de speeltuin.,app,afgehandeld,2026-06-18,51.88811,4.46976
+M-2026-0353,2026-06-18,11:53,Prins Alexander,Fluitekruidstraat,Container vol,De papiercontainer is al dagen vol.,website,afgehandeld,2026-06-20,51.95182,4.54767
+M-2026-0354,2026-06-18,19:35,Delfshaven,Koolvisstraat,Bestrating,Klinkers liggen los op het kruispunt.,app,afgehandeld,2026-06-22,51.90983,4.44902
+M-2026-0355,2026-06-19,08:41,Centrum,Zeilmakershof,Zwerfafval,Pizzadozen en flessen in de struiken.,website,afgehandeld,2026-06-23,51.92271,4.48119
+M-2026-0356,2026-06-19,13:58,Charlois,Boomgaardstraat,Groen en bomen,"Dode boom tegenover de supermarkt, ik ben bang dat hij omvalt.",app,afgehandeld,2026-07-31,51.87775,4.46869
+M-2026-0357,2026-06-20,09:19,Delfshaven,Mouterijstraat,Graffiti,Nieuwe tags op het transformatorhuisje bij de ingang van het park.,telefoon,afgehandeld,2026-07-08,51.90793,4.4351
+M-2026-0358,2026-06-20,09:28,Centrum,Pakhuisplein,Ongedierte,"Duiven nestelen onder het viaduct tegenover de supermarkt, alles zit onder de poep.",website,afgehandeld,2026-06-29,51.92604,4.47608
+M-2026-0359,2026-06-20,10:18,Prins Alexander,Parkzoomlaan,Zwerfafval,Glasscherven op het fietspad bij het bankje. Gevaarlijk voor fietsers.,app,afgehandeld,2026-06-21,51.96196,4.54931
+M-2026-0360,2026-06-20,10:29,Prins Alexander,Zevenkampse Hof,Bestrating,"Gat in de weg bij de bushalte, auto's rijden eromheen.",website,afgehandeld,2026-06-30,51.95979,4.55092
+M-2026-0361,2026-06-20,10:42,Delfshaven,Kuipershof,Zwerfafval,Na het weekend ligt het hier vol met afval op de hoek met de Koolvisstraat.,app,afgehandeld,2026-06-25,51.90933,4.43997
+M-2026-0362,2026-06-20,10:59,Kralingen-Crooswijk,Rietkragenhof,Fietswrak,"Weesfiets met platte banden, staat er al sinds de zomer.",website,afgehandeld,2026-07-10,51.92396,4.49983
+M-2026-0363,2026-06-20,11:48,Delfshaven,Jeneverkade,Container vol,"Container zit vol, zakken staan ernaast.",app,afgehandeld,2026-06-22,51.90804,4.45405
+M-2026-0364,2026-06-20,13:02,Kralingen-Crooswijk,Esdoornpad,Container vol,Ondergrondse container gaat niet meer open bij de ingang van het park.,telefoon,afgehandeld,2026-06-21,51.92709,4.51973
+M-2026-0365,2026-06-20,18:47,Kralingen-Crooswijk,Molenwiekstraat,Zwerfafval,Na het weekend ligt het hier vol met afval.,app,afgehandeld,2026-06-25,51.92825,4.51586
+M-2026-0366,2026-06-22,07:31,IJsselmonde,Weidevogelpad,Zwerfafval,"Rommel rond de bankjes naast de speeltuin, meeuwen trekken de zakken open.",telefoon,afgehandeld,2026-06-23,51.89025,4.54593
+M-2026-0367,2026-06-22,21:40,Feijenoord,Pakhuisweg,Straatverlichting,Lantaarnpaal doet het niet ter hoogte van nummer 106. Het is hier 's avonds heel donker.,website,afgehandeld,2026-06-28,51.90256,4.48902
+M-2026-0368,2026-06-23,10:46,Feijenoord,Marktveldstraat,Zwerfafval,Pizzadozen en flessen in de struiken bij de bushalte.,telefoon,afgehandeld,2026-06-24,51.89528,4.49993
+M-2026-0369,2026-06-23,11:01,Overschie,Zandweg Oost,Fietswrak,Verroeste fiets in het rek bij de metro.,app,afgehandeld,2026-07-14,51.93763,4.42799
+M-2026-0370,2026-06-23,15:27,IJsselmonde,Dijkwachterslaan,Ongedierte,"Duiven nestelen onder het viaduct ter hoogte van nummer 21, alles zit onder de poep.",app,afgehandeld,2026-07-01,51.89534,4.54736
+M-2026-0371,2026-06-24,13:46,Feijenoord,Marktveldstraat,Zwerfafval,"Rotte groente en plastic zakken van de markt naast de speeltuin, het stinkt.",app,afgehandeld,2026-06-25,51.89874,4.49477
+M-2026-0372,2026-06-24,13:57,Feijenoord,Dokwerkersplein,Zwerfafval,"Rotte groente en plastic zakken van de markt naast de speeltuin, het stinkt.",app,afgehandeld,2026-06-26,51.89516,4.49998
+M-2026-0373,2026-06-24,15:28,Overschie,Schieoever,Container vol,"Glasbak vol, mensen zetten flessen ernaast bij de ingang van het park.",app,afgehandeld,2026-06-27,51.94208,4.41913
+M-2026-0374,2026-06-25,19:27,Noord,Kanaalstraat,Fietswrak,Fietswrak half in de sloot bij de ingang van het park.,app,afgehandeld,2026-07-22,51.93688,4.47152
+M-2026-0375,2026-06-27,07:55,Centrum,Tonnenkade,Ongedierte,"Veel ratten in de tuintjes voor nummer 139, ze komen af op het brood voor de eenden.",app,afgehandeld,2026-07-07,51.91345,4.47702
+M-2026-0376,2026-06-27,10:35,Delfshaven,Koolvisstraat,Bestrating,Weer losse tegels bij nummer 23. Dit was toch gemaakt?,app,afgehandeld,2026-07-02,51.91212,4.44318
+M-2026-0377,2026-06-27,16:23,Charlois,Hoeveweg,Zwerfafval,Na het weekend ligt het hier vol met afval voor nummer 67.,website,afgehandeld,2026-07-01,51.87757,4.47412
+M-2026-0378,2026-06-28,13:10,Charlois,Kreekoever,Zwerfafval,Na het weekend ligt het hier vol met afval ter hoogte van nummer 64.,app,afgehandeld,2026-06-30,51.88085,4.46581
+M-2026-0379,2026-06-28,22:54,Prins Alexander,Fluitekruidstraat,Straatverlichting,Lantaarnpaal doet het niet op de hoek met de Kiekendiefpad. Het is hier 's avonds heel donker.,website,afgehandeld,2026-07-11,51.95322,4.54475
+M-2026-0380,2026-06-29,09:13,Overschie,Schieoever,Bestrating,Klinkers liggen los op het kruispunt.,telefoon,afgehandeld,2026-07-08,51.9457,4.42965
+M-2026-0381,2026-06-29,10:06,Prins Alexander,Zevenkampse Hof,Zwerfafval,Iemand heeft een bank en een matras op straat gezet ter hoogte van nummer 59.,app,afgehandeld,2026-06-30,51.95886,4.55497
+M-2026-0382,2026-06-29,10:59,Prins Alexander,Zevenkampse Hof,Fietswrak,Fietswrak half in de sloot.,website,afgehandeld,2026-08-01,51.9543,4.55085
+M-2026-0383,2026-06-29,20:46,Noord,Spoorbaanstraat,Ongedierte,"Ratten bij de containers voor nummer 85, vooral 's avonds.",website,afgehandeld,2026-07-09,51.93901,4.47375
+M-2026-0384,2026-06-30,08:53,Feijenoord,Brugwachterskade,Zwerfafval,Iemand heeft een bank en een matras op straat gezet bij het bankje.,telefoon,afgehandeld,2026-07-01,51.89803,4.49332
+M-2026-0385,2026-06-30,14:30,Feijenoord,Pakhuisweg,Zwerfafval,"Het ligt hier echt vies, wanneer wordt er geveegd?",telefoon,afgehandeld,2026-07-01,51.89811,4.50097
+M-2026-0386,2026-07-02,08:03,Charlois,Zuidpolderhof,Ongedierte,"Duiven nestelen onder het viaduct, alles zit onder de poep.",app,afgehandeld,2026-07-05,51.88498,4.46168
+M-2026-0387,2026-07-03,10:27,Feijenoord,Pakhuisweg,Overig,"Bankje in het park is kapot, er mist een plank naast de speeltuin.",app,afgehandeld,2026-07-12,51.90137,4.49467
+M-2026-0388,2026-07-03,10:43,IJsselmonde,Dijkwachterslaan,Overig,"Veel zwerfafval op de stoep. Blikjes, zakjes en plastic overal.",website,afgehandeld,2026-07-04,51.88759,4.55128
+M-2026-0389,2026-07-03,14:28,Charlois,Dorpsweidepad,Overig,"Container zit vol, zakken staan ernaast.",website,afgehandeld,2026-07-06,51.88392,4.4696
+M-2026-0390,2026-07-03,15:46,Feijenoord,Brugwachterskade,Container vol,"Container zit vol, zakken staan ernaast ter hoogte van nummer 89.",app,afgehandeld,2026-07-05,51.8997,4.49656
+M-2026-0391,2026-07-03,20:52,Charlois,Dorpsweidepad,Zwerfafval,Iemand heeft een bank en een matras op straat gezet.,telefoon,afgehandeld,2026-07-08,51.88152,4.47848
+M-2026-0392,2026-07-04,09:25,Prins Alexander,Fluitekruidstraat,Zwerfafval,"Veel zwerfafval op de stoep voor nummer 32. Blikjes, zakjes en plastic overal.",app,afgehandeld,2026-07-05,51.96095,4.5548
+M-2026-0393,2026-07-04,10:07,Kralingen-Crooswijk,Esdoornpad,Groen en bomen,Het gras in het plantsoen wordt niet gemaaid op de hoek met de Plaslaan.,app,afgehandeld,2026-08-17,51.92546,4.51251
+M-2026-0394,2026-07-04,11:33,Noord,Lindehof,Ongedierte,Wespennest in de lantaarnpaal ter hoogte van nummer 42.,app,afgehandeld,2026-07-14,51.93281,4.47891
+M-2026-0395,2026-07-04,13:03,Kralingen-Crooswijk,Plaslaan,Zwerfafval,"Er ligt een berg vuilniszakken naast de container ter hoogte van nummer 45, het waait alle kanten op.",app,afgehandeld,2026-07-07,51.93053,4.50472
+M-2026-0396,2026-07-04,17:52,Feijenoord,Marktveldstraat,Zwerfafval,Marktafval waait de straat in bij het bankje.,app,afgehandeld,2026-07-09,51.89827,4.48851
+M-2026-0397,2026-07-04,18:57,Charlois,Kreekoever,Fietswrak,Verroeste fiets in het rek bij de metro bij de bushalte.,app,afgehandeld,2026-07-24,51.88221,4.47059
+M-2026-0398,2026-07-07,10:30,Feijenoord,Pakhuisweg,Zwerfafval,Na het weekend ligt het hier vol met afval.,website,afgehandeld,2026-07-10,51.89782,4.50715
+M-2026-0399,2026-07-08,15:32,Feijenoord,Marktveldstraat,Zwerfafval,Marktafval waait de straat in naast de speeltuin.,website,afgehandeld,2026-07-10,51.89347,4.50092
+M-2026-0400,2026-07-10,09:50,Hillegersberg-Schiebroek,Kastanjehoflaan,Bestrating,"Tegels steken omhoog bij het bankje, lastig met de rollator.",telefoon,afgehandeld,2026-07-22,51.95664,4.4925
+M-2026-0401,2026-07-10,11:08,Centrum,Stokviswal,Fietswrak,"Weesfiets met platte banden voor nummer 7, staat er al sinds de zomer.",app,afgehandeld,2026-07-24,51.92132,4.47349
+M-2026-0402,2026-07-10,14:35,Centrum,Zeilmakershof,Bestrating,"Gat in de weg bij het bankje, auto's rijden eromheen.",website,afgehandeld,2026-07-15,51.92619,4.48252
+M-2026-0403,2026-07-11,09:07,Noord,Kanaalstraat,Zwerfafval,"Veel zwerfafval op de stoep op de hoek met de Notenkrakerspad. Blikjes, zakjes en plastic overal.",website,afgehandeld,2026-07-14,51.93237,4.4718
+M-2026-0404,2026-07-11,19:36,Delfshaven,Mouterijstraat,Ongedierte,Wespennest in de lantaarnpaal bij de ingang van het park.,app,afgehandeld,2026-07-16,51.90702,4.43801
+M-2026-0405,2026-07-12,07:21,Delfshaven,Koolvisstraat,Bestrating,"Die boomwortels drukken alles omhoog, repareren helpt niet. Nummer 23.",telefoon,afgehandeld,2026-07-19,51.91212,4.44318
+M-2026-0406,2026-07-12,08:11,Centrum,Koopmansgang,Zwerfafval,"Het ligt hier echt vies bij de ingang van het park, wanneer wordt er geveegd?",website,afgehandeld,2026-07-13,51.91942,4.48031
+M-2026-0407,2026-07-12,14:51,Feijenoord,Brugwachterskade,Zwerfafval,Pizzadozen en flessen in de struiken voor nummer 88.,app,afgehandeld,2026-07-16,51.89991,4.49994
+M-2026-0408,2026-07-12,15:35,Feijenoord,Pakhuisweg,Zwerfafval,Glasscherven op het fietspad naast de speeltuin. Gevaarlijk voor fietsers.,telefoon,afgehandeld,2026-07-14,51.89492,4.49596
+M-2026-0409,2026-07-14,08:53,Centrum,Zeilmakershof,Container vol,Containr vol en het stinkt.,app,afgehandeld,2026-07-16,51.91742,4.47218
+M-2026-0410,2026-07-14,13:13,Delfshaven,Mouterijstraat,Overig,"Ratten bij de containers voor nummer 134, vooral 's avonds.",website,afgehandeld,2026-07-23,51.90949,4.44391
+M-2026-0411,2026-07-15,16:37,Feijenoord,Marktveldstraat,Zwerfafval,Na de markt liggen er overal kartonnen dozen naast de speeltuin.,telefoon,afgehandeld,2026-07-20,51.89332,4.51485
+M-2026-0412,2026-07-15,19:35,Charlois,Zuidpolderhof,Ongedierte,"Ratten bij de containers bij het bankje, vooral 's avonds.",website,afgehandeld,2026-07-24,51.87711,4.47412
+M-2026-0413,2026-07-17,09:50,Noord,Lindehof,Ongedierte,"Veel ratten in de tuintjes bij het bankje, ze komen af op het brood voor de eenden.",website,afgehandeld,2026-07-23,51.92591,4.45988
+M-2026-0414,2026-07-17,14:43,Delfshaven,Touwslagerspad,Overig,"Losliggende stoeptegels bij de ingang van het park, ik ben bijna gevallen.",website,afgehandeld,2026-07-23,51.91896,4.44946
+M-2026-0415,2026-07-18,08:01,Feijenoord,Dokwerkersplein,Zwerfafval,Na de markt liggen er overal kartonnen dozen.,telefoon,afgehandeld,2026-07-19,51.90245,4.49972
+M-2026-0416,2026-07-18,08:55,Centrum,Koopmansgang,Ongedierte,Wespennest in de lantaarnpaal voor nummer 69.,website,afgehandeld,2026-07-27,51.9211,4.50012
+M-2026-0417,2026-07-18,16:37,Noord,Kanaalstraat,Zwerfafval,"Rommel rond de bankjes, meeuwen trekken de zakken open.",telefoon,afgehandeld,2026-07-22,51.9332,4.47104
+M-2026-0418,2026-07-19,08:01,Hillegersberg-Schiebroek,Plassenkade,Container vol,De papiercontainer is al dagen vol bij de bushalte.,website,afgehandeld,2026-07-21,51.95237,4.47855
+M-2026-0419,2026-07-19,13:37,Prins Alexander,Zevenkampse Hof,Ongedierte,Wespennest in de lantaarnpaal.,app,afgehandeld,2026-07-24,51.95573,4.55041
+M-2026-0420,2026-07-19,14:22,Charlois,Dorpsweidepad,Graffiti,Bushokje helemaal beklad naast de speeltuin.,app,afgehandeld,2026-08-02,51.88388,4.46501
+M-2026-0421,2026-07-19,14:31,Kralingen-Crooswijk,Crooswijkse Boog,Zwerfafval,Pizzadozen en flessen in de struiken voor nummer 16.,telefoon,afgehandeld,2026-07-20,51.92544,4.50682
+M-2026-0422,2026-07-19,17:10,Noord,Kanaalstraat,Zwerfafval,Iemand heeft een bank en een matras op straat gezet voor nummer 121.,website,afgehandeld,2026-07-22,51.93666,4.4674
+M-2026-0423,2026-07-20,14:00,Feijenoord,Brugwachterskade,Overig,"Zwerfvuil langs de waterkant bij de bushalte, flessen drijven in het water.",website,afgehandeld,2026-07-24,51.89434,4.5084
+M-2026-0424,2026-07-21,10:35,Noord,Bloemkweekstraat,Ongedierte,"Veel ratten in de tuintjes, ze komen af op het brood voor de eenden.",app,afgehandeld,2026-07-30,51.93722,4.47472
+M-2026-0425,2026-07-22,11:36,Feijenoord,Marktveldstraat,Overig,Containr vol en het stinkt naast de speeltuin.,app,afgehandeld,2026-07-25,51.90104,4.5075
+M-2026-0426,2026-07-23,12:44,Charlois,Dorpsweidepad,Fietswrak,"Fiets zonder wielen in het fietsenrek naast de speeltuin, neemt ruimte in.",app,afgehandeld,2026-08-18,51.88441,4.47043
+M-2026-0427,2026-07-23,16:19,Delfshaven,Kuipershof,Bestrating,"Losliggende stoeptegels, ik ben bijna gevallen.",app,afgehandeld,2026-07-30,51.91493,4.44832
+M-2026-0428,2026-07-26,07:01,Delfshaven,Kuipershof,Fietswrak,"Fiets zonder wielen in het fietsenrek voor nummer 17, neemt ruimte in.",telefoon,afgehandeld,2026-08-28,51.90764,4.44811
+M-2026-0429,2026-07-26,08:45,Centrum,Tonnenkade,Overig,"Duiven nestelen onder het viaduct naast de speeltuin, alles zit onder de poep.",website,afgehandeld,2026-08-01,51.91826,4.4804
+M-2026-0430,2026-07-27,12:33,Delfshaven,Koolvisstraat,Bestrating,Voor de derde keer: tegels liggen weer omhoog bij de boom op nummer 23.,telefoon,afgehandeld,2026-08-01,51.91212,4.44318
+M-2026-0431,2026-07-27,18:58,Feijenoord,Marktveldstraat,Overig,Iemand heeft een bank en een matras op straat gezet bij de ingang van het park.,telefoon,afgehandeld,2026-07-30,51.90235,4.49839
+M-2026-0432,2026-07-28,10:14,Charlois,Boomgaardstraat,Graffiti,Graffiti op de muur van de school bij het bankje.,website,afgehandeld,2026-08-11,51.88497,4.47382
+M-2026-0433,2026-07-28,17:39,Overschie,Landhoeveweg,Zwerfafval,Iemand heeft een bank en een matras op straat gezet bij de bushalte.,telefoon,afgehandeld,2026-07-30,51.93685,4.43062
+M-2026-0434,2026-07-29,09:59,Noord,Spoorbaanstraat,Container vol,"Restafvalcontainer klemt, de klep zit vast tegenover de supermarkt.",app,afgehandeld,2026-07-31,51.93645,4.46396
+M-2026-0435,2026-07-29,16:37,Prins Alexander,Kiekendiefpad,Ongedierte,"Duiven nestelen onder het viaduct ter hoogte van nummer 19, alles zit onder de poep.",website,afgehandeld,2026-08-07,51.95512,4.5522
+M-2026-0436,2026-07-30,17:42,Centrum,Stokviswal,Zwerfafval,Na het weekend ligt het hier vol met afval bij de bushalte.,website,afgehandeld,2026-07-31,51.92142,4.47812
+M-2026-0437,2026-08-01,07:10,Feijenoord,Marktveldstraat,Zwerfafval,Na de markt liggen er overal kartonnen dozen tegenover de supermarkt.,app,afgehandeld,2026-08-02,51.90059,4.50106
+M-2026-0438,2026-08-01,10:50,Feijenoord,Dokwerkersplein,Zwerfafval,"Rotte groente en plastic zakken van de markt bij de bushalte, het stinkt.",app,afgehandeld,2026-08-04,51.90151,4.49751
+M-2026-0439,2026-08-01,13:14,Charlois,Boomgaardstraat,Ongedierte,"Veel ratten in de tuintjes op de hoek met de Hoeveweg, ze komen af op het brood voor de eenden.",telefoon,afgehandeld,2026-08-11,51.88337,4.4772
+M-2026-0440,2026-08-01,22:40,Prins Alexander,Tuinstadlaan,Straatverlichting,Straatlamp knippert de hele avond bij het bankje.,telefoon,afgehandeld,2026-08-05,51.9475,4.54182
+M-2026-0441,2026-08-02,10:18,Delfshaven,Mouterijstraat,Zwerfafval,"Rommel rond de bankjes tegenover de supermarkt, meeuwen trekken de zakken open.",telefoon,afgehandeld,2026-08-06,51.90868,4.44915
+M-2026-0442,2026-08-02,10:28,Charlois,Dorpsweidepad,Container vol,Containr vol en het stinkt.,app,afgehandeld,2026-08-03,51.88665,4.47155
+M-2026-0443,2026-08-02,17:11,Prins Alexander,Fluitekruidstraat,Zwerfafval,Pizzadozen en flessen in de struiken.,website,afgehandeld,2026-08-05,51.95328,4.54858
+M-2026-0444,2026-08-02,22:29,Prins Alexander,Parkzoomlaan,Ongedierte,"Ratten bij de containers, vooral 's avonds.",website,afgehandeld,2026-08-12,51.95046,4.54654
+M-2026-0445,2026-08-03,08:44,Hillegersberg-Schiebroek,Kastanjehoflaan,Zwerfafval,"Veel zwerfafval op de stoep tegenover de supermarkt. Blikjes, zakjes en plastic overal.",telefoon,afgehandeld,2026-08-08,51.95087,4.49294
+M-2026-0446,2026-08-03,18:40,Noord,Notenkrakerspad,Overig,"Duiven nestelen onder het viaduct naast de speeltuin, alles zit onder de poep.",app,afgehandeld,2026-08-07,51.93267,4.46293
+M-2026-0447,2026-08-03,19:21,Charlois,Zuidpolderhof,Zwerfafval,Iemand heeft een bank en een matras op straat gezet bij de bushalte.,app,afgehandeld,2026-08-06,51.87686,4.47541
+M-2026-0448,2026-08-04,08:14,Kralingen-Crooswijk,Molenwiekstraat,Container vol,"Restafvalcontainer klemt, de klep zit vast.",app,afgehandeld,2026-08-06,51.9249,4.50627
+M-2026-0449,2026-08-05,21:42,Hillegersberg-Schiebroek,Villapark Oost,Fietswrak,Fietswrak staat al maanden vast aan het hek op de hoek met de Rozenbottelstraat.,app,afgehandeld,2026-08-25,51.94988,4.49766
+M-2026-0450,2026-08-06,07:51,Delfshaven,Touwslagerspad,Straatverlichting,Lantarenpaal scheef na een aanrijding naast de speeltuin.,website,afgehandeld,2026-08-13,51.90784,4.44896
+M-2026-0451,2026-08-07,09:25,Centrum,Stokviswal,Zwerfafval,Iemand heeft een bank en een matras op straat gezet op de hoek met de Koopmansgang.,app,afgehandeld,2026-08-10,51.92754,4.48206
+M-2026-0452,2026-08-07,11:20,Noord,Bloemkweekstraat,Groen en bomen,"Overhangende takken ter hoogte van nummer 116, je kunt er niet meer langs met de kinderwagen.",telefoon,afgehandeld,2026-08-25,51.93167,4.47616
+M-2026-0453,2026-08-08,20:18,Feijenoord,Laadkraanstraat,Graffiti,Bushokje helemaal beklad ter hoogte van nummer 9.,website,afgehandeld,2026-08-25,51.89762,4.49625
+M-2026-0454,2026-08-09,17:56,Centrum,Tonnenkade,Ongedierte,Wespennest in de lantaarnpaal.,app,afgehandeld,2026-08-19,51.91758,4.47544
+M-2026-0455,2026-08-10,10:00,Centrum,Pakhuisplein,Ongedierte,"Veel ratten in de tuintjes, ze komen af op het brood voor de eenden.",website,afgehandeld,2026-08-15,51.9182,4.48107
+M-2026-0456,2026-08-10,10:47,IJsselmonde,Oeverzwaluwstraat,Overig,"Speeltoestel kapot, de schommel hangt aan één ketting tegenover de supermarkt.",app,afgehandeld,2026-08-26,51.88509,4.54913
+M-2026-0457,2026-08-10,15:44,Delfshaven,Koolvisstraat,Bestrating,Voor de derde keer: tegels liggen weer omhoog bij de boom op nummer 23.,app,afgehandeld,2026-08-16,51.91212,4.44318
+M-2026-0458,2026-08-10,18:15,Delfshaven,Koolvisstraat,Groen en bomen,"Onkruid tussen de tegels bij de ingang van het park, het wordt een wildernis.",app,afgehandeld,2026-09-20,51.90882,4.44359
+M-2026-0459,2026-08-11,09:37,Centrum,Pakhuisplein,Graffiti,Graffiti op de muur van de school voor nummer 88.,app,afgehandeld,2026-08-29,51.92349,4.49116
+M-2026-0460,2026-08-11,09:42,Delfshaven,Kuipershof,Zwerfafval,"Zwerfvuil langs de waterkant bij het bankje, flessen drijven in het water.",website,afgehandeld,2026-08-13,51.91367,4.43683
+M-2026-0461,2026-08-11,16:44,Noord,Lindehof,Container vol,Containr vol en het stinkt voor nummer 98.,website,afgehandeld,2026-08-13,51.92916,4.46549
+M-2026-0462,2026-08-12,10:44,Delfshaven,Mouterijstraat,Overig,Bushokje helemaal beklad ter hoogte van nummer 119.,website,afgehandeld,2026-08-24,51.90918,4.45008
+M-2026-0463,2026-08-12,12:26,Feijenoord,Marktveldstraat,Zwerfafval,"Rotte groente en plastic zakken van de markt ter hoogte van nummer 31, het stinkt.",app,afgehandeld,2026-08-17,51.89497,4.50054
+M-2026-0464,2026-08-13,18:13,Delfshaven,Jeneverkade,Zwerfafval,"Er ligt een berg vuilniszakken naast de container, het waait alle kanten op.",website,afgehandeld,2026-08-15,51.90444,4.4353
+M-2026-0465,2026-08-15,11:57,Delfshaven,Jeneverkade,Groen en bomen,"Dode boom bij het bankje, ik ben bang dat hij omvalt.",website,afgehandeld,2026-09-19,51.91367,4.45372
+M-2026-0466,2026-08-17,13:04,Charlois,Boomgaardstraat,Zwerfafval,"Zwerfvuil langs de waterkant bij de ingang van het park, flessen drijven in het water.",app,afgehandeld,2026-08-19,51.88062,4.46183
+M-2026-0467,2026-08-17,15:42,Centrum,Tonnenkade,Overig,Loslopende kippen in het plantsoen. Van wie zijn die?,website,afgehandeld,2026-08-29,51.92091,4.47874
+M-2026-0468,2026-08-18,10:23,Charlois,Boomgaardstraat,Ongedierte,"Veel ratten in de tuintjes bij de ingang van het park, ze komen af op het brood voor de eenden.",website,afgehandeld,2026-08-21,51.87675,4.47039
+M-2026-0469,2026-08-18,18:03,Delfshaven,Touwslagerspad,Zwerfafval,Glasscherven op het fietspad voor nummer 52. Gevaarlijk voor fietsers.,app,afgehandeld,2026-08-22,51.90678,4.44373
+M-2026-0470,2026-08-18,22:40,Hillegersberg-Schiebroek,Villapark Oost,Bestrating,"Verzakte stoep bij de ingang van het park, er blijft steeds water staan.",website,afgehandeld,2026-08-24,51.96454,4.49132
+M-2026-0471,2026-08-19,13:12,Feijenoord,Marktveldstraat,Zwerfafval,Marktafval waait de straat in.,website,afgehandeld,2026-08-23,51.90247,4.49828
+M-2026-0472,2026-08-19,13:59,Feijenoord,Marktveldstraat,Zwerfafval,"Rotte groente en plastic zakken van de markt op de hoek met de Brugwachterskade, het stinkt.",telefoon,afgehandeld,2026-08-20,51.89591,4.49697
+M-2026-0473,2026-08-20,14:56,Noord,Spoorbaanstraat,Container vol,"Restafvalcontainer klemt, de klep zit vast bij het bankje.",app,afgehandeld,2026-08-23,51.93718,4.4694
+M-2026-0474,2026-08-20,16:45,Noord,Bloemkweekstraat,Groen en bomen,"Onkruid tussen de tegels ter hoogte van nummer 61, het wordt een wildernis.",app,afgehandeld,2026-10-03,51.92762,4.46979
+M-2026-0475,2026-08-20,18:15,Feijenoord,Pakhuisweg,Overig,"Bankje in het park is kapot, er mist een plank naast de speeltuin.",telefoon,afgehandeld,2026-09-08,51.9032,4.4958
+M-2026-0476,2026-08-22,08:50,Noord,Notenkrakerspad,Zwerfafval,"Het ligt hier echt vies, wanneer wordt er geveegd?",telefoon,afgehandeld,2026-08-24,51.94218,4.47127
+M-2026-0477,2026-08-22,09:33,Delfshaven,Jeneverkade,Zwerfafval,Na het weekend ligt het hier vol met afval.,telefoon,afgehandeld,2026-08-25,51.91291,4.44251
+M-2026-0478,2026-08-22,09:54,Centrum,Zeilmakershof,Zwerfafval,Iemand heeft een bank en een matras op straat gezet bij de ingang van het park.,telefoon,afgehandeld,2026-08-25,51.91867,4.48094
+M-2026-0479,2026-08-22,10:10,Feijenoord,Marktveldstraat,Zwerfafval,"Na de markt blijft er veel afval achter ter hoogte van nummer 110: kratten, groente en plastic.",website,afgehandeld,2026-08-27,51.90142,4.49202
+M-2026-0480,2026-08-22,13:44,Feijenoord,Marktveldstraat,Zwerfafval,"Na de markt blijft er veel afval achter tegenover de supermarkt: kratten, groente en plastic.",website,afgehandeld,2026-08-27,51.90157,4.49881
+M-2026-0481,2026-08-22,14:23,Overschie,Polderzicht,Overig,"Speeltoestel kapot, de schommel hangt aan één ketting.",app,afgehandeld,2026-08-27,51.94149,4.42939
+M-2026-0482,2026-08-22,17:42,Feijenoord,Laadkraanstraat,Ongedierte,"Veel ratten in de tuintjes bij de ingang van het park, ze komen af op het brood voor de eenden.",telefoon,afgehandeld,2026-08-27,51.89135,4.50129
+M-2026-0483,2026-08-23,12:51,Delfshaven,Koolvisstraat,Bestrating,Weer losse tegels bij nummer 23. Dit was toch gemaakt?,website,afgehandeld,2026-08-31,51.91212,4.44318
+M-2026-0484,2026-08-26,08:30,Charlois,Boomgaardstraat,Container vol,De papiercontainer is al dagen vol.,app,afgehandeld,2026-08-27,51.88173,4.47525
+M-2026-0485,2026-08-26,09:20,Hillegersberg-Schiebroek,Villapark Oost,Groen en bomen,"Onkruid tussen de tegels ter hoogte van nummer 62, het wordt een wildernis.",app,afgehandeld,2026-09-30,51.95059,4.49458
+M-2026-0486,2026-08-26,12:31,Delfshaven,Koolvisstraat,Overig,De papiercontainer is al dagen vol bij het bankje.,app,afgehandeld,2026-08-27,51.91175,4.43737
+M-2026-0487,2026-08-26,20:33,Charlois,Boomgaardstraat,Container vol,"Glasbak vol, mensen zetten flessen ernaast tegenover de supermarkt.",telefoon,afgehandeld,2026-08-28,51.88311,4.47122
+M-2026-0488,2026-08-27,12:52,Centrum,Zeilmakershof,Overig,"Ratten bij de containers bij het bankje, vooral 's avonds.",website,afgehandeld,2026-09-06,51.92269,4.47257
+M-2026-0489,2026-08-27,15:02,Kralingen-Crooswijk,Crooswijkse Boog,Overig,Klinkers liggen los op het kruispunt.,app,afgehandeld,2026-09-03,51.92114,4.51368
+M-2026-0490,2026-08-28,08:51,Charlois,Hoeveweg,Groen en bomen,Het gras in het plantsoen wordt niet gemaaid.,app,afgehandeld,2026-09-11,51.8862,4.48543
+M-2026-0491,2026-08-29,07:55,Feijenoord,Dokwerkersplein,Container vol,Ondergrondse container gaat niet meer open ter hoogte van nummer 14.,app,afgehandeld,2026-08-31,51.90448,4.50239
+M-2026-0492,2026-08-29,17:34,Delfshaven,Kuipershof,Bestrating,"Gat in de weg, auto's rijden eromheen.",website,afgehandeld,2026-09-03,51.909,4.44136
+M-2026-0493,2026-08-30,12:36,Kralingen-Crooswijk,Crooswijkse Boog,Overig,"Veel zwerfafval op de stoep ter hoogte van nummer 14. Blikjes, zakjes en plastic overal.",website,afgehandeld,2026-09-03,51.93144,4.51822
+M-2026-0494,2026-08-30,21:13,IJsselmonde,Weidevogelpad,Container vol,Containr vol en het stinkt.,app,afgehandeld,2026-09-01,51.89122,4.53821
+M-2026-0495,2026-08-31,17:01,IJsselmonde,Rivierhof,Zwerfafval,Glasscherven op het fietspad bij de bushalte. Gevaarlijk voor fietsers.,telefoon,afgehandeld,2026-09-02,51.8895,4.55393
+M-2026-0496,2026-09-01,13:57,Charlois,Hoeveweg,Bestrating,"Gat in de weg bij het bankje, auto's rijden eromheen.",website,afgehandeld,2026-09-12,51.87991,4.47655
+M-2026-0497,2026-09-01,14:36,Centrum,Koopmansgang,Fietswrak,Fietswrak staat al maanden vast aan het hek naast de speeltuin.,app,afgehandeld,2026-10-06,51.9275,4.48111
+M-2026-0498,2026-09-02,15:53,Prins Alexander,Fluitekruidstraat,Zwerfafval,Pizzadozen en flessen in de struiken.,telefoon,afgehandeld,2026-09-07,51.95256,4.5426
+M-2026-0499,2026-09-03,11:24,IJsselmonde,Dijkwachterslaan,Ongedierte,"Duiven nestelen onder het viaduct op de hoek met de Rivierhof, alles zit onder de poep.",telefoon,afgehandeld,2026-09-11,51.88964,4.54222
+M-2026-0500,2026-09-03,22:48,Delfshaven,Mouterijstraat,Straatverlichting,Lantarenpaal scheef na een aanrijding.,app,afgehandeld,2026-09-09,51.91082,4.44554
+M-2026-0501,2026-09-05,10:48,Feijenoord,Marktveldstraat,Zwerfafval,Na de markt liggen er overal kartonnen dozen.,website,afgehandeld,2026-09-06,51.89391,4.50108
+M-2026-0502,2026-09-06,07:27,Delfshaven,Koolvisstraat,Overig,"Drie lampen achter elkaar uit, geeft een onveilig gevoel.",app,afgehandeld,2026-09-19,51.91589,4.44246
+M-2026-0503,2026-09-06,12:08,Hillegersberg-Schiebroek,Wilgenwal,Fietswrak,Verroeste fiets in het rek bij de metro.,telefoon,afgehandeld,2026-09-20,51.93953,4.48594
+M-2026-0504,2026-09-07,12:25,Delfshaven,Koolvisstraat,Bestrating,Weer losse tegels bij nummer 23. Dit was toch gemaakt?,app,afgehandeld,2026-09-15,51.91212,4.44318
+M-2026-0505,2026-09-08,08:36,Feijenoord,Laadkraanstraat,Graffiti,Nieuwe tags op het transformatorhuisje.,website,afgehandeld,2026-09-18,51.89789,4.5092
+M-2026-0506,2026-09-08,19:38,Centrum,Pakhuisplein,Overig,"Weesfiets met platte banden, staat er al sinds de zomer.",app,afgehandeld,2026-10-01,51.92419,4.48089
+M-2026-0507,2026-09-09,08:56,Feijenoord,Marktveldstraat,Zwerfafval,"Zwerfvuil langs de waterkant naast de speeltuin, flessen drijven in het water.",website,afgehandeld,2026-09-13,51.90757,4.49279
+M-2026-0508,2026-09-09,10:57,Overschie,Landhoeveweg,Ongedierte,"Duiven nestelen onder het viaduct, alles zit onder de poep.",website,afgehandeld,2026-09-13,51.94153,4.43907
+M-2026-0509,2026-09-09,14:10,Noord,Lindehof,Zwerfafval,"Veel zwerfafval op de stoep bij de bushalte. Blikjes, zakjes en plastic overal.",app,afgehandeld,2026-09-11,51.93423,4.47686
+M-2026-0510,2026-09-09,16:27,Feijenoord,Dokwerkersplein,Zwerfafval,Marktafval waait de straat in.,app,afgehandeld,2026-09-10,51.90153,4.49876
+M-2026-0511,2026-09-10,20:00,Overschie,Molensloot,Straatverlichting,Lamp brandt overdag ook.,website,afgehandeld,2026-09-21,51.94203,4.42362
+M-2026-0512,2026-09-10,22:23,Feijenoord,Laadkraanstraat,Straatverlichting,"Donker stuk op het fietspad voor nummer 12, de verlichting is kapot.",website,afgehandeld,2026-09-20,51.89567,4.50212
+M-2026-0513,2026-09-11,11:51,Centrum,Tonnenkade,Zwerfafval,Glasscherven op het fietspad tegenover de supermarkt. Gevaarlijk voor fietsers.,website,afgehandeld,2026-09-12,51.92925,4.48338
+M-2026-0514,2026-09-11,18:21,Charlois,Dorpsweidepad,Groen en bomen,Het gras in het plantsoen wordt niet gemaaid voor nummer 139.,telefoon,afgehandeld,2026-10-06,51.88076,4.47647
+M-2026-0515,2026-09-11,18:33,Charlois,Zuidpolderhof,Straatverlichting,Lantarenpaal scheef na een aanrijding voor nummer 74.,website,afgehandeld,2026-09-19,51.87647,4.46696
+M-2026-0516,2026-09-12,07:04,Centrum,Stokviswal,Container vol,"Restafvalcontainer klemt, de klep zit vast naast de speeltuin.",app,afgehandeld,2026-09-14,51.92495,4.48972
+M-2026-0517,2026-09-12,09:24,Prins Alexander,Zevenkampse Hof,Container vol,"Restafvalcontainer klemt, de klep zit vast naast de speeltuin.",app,afgehandeld,2026-09-14,51.95504,4.55832
+M-2026-0518,2026-09-12,10:04,Feijenoord,Dokwerkersplein,Zwerfafval,Na de markt liggen er overal kartonnen dozen.,app,afgehandeld,2026-09-16,51.89824,4.50592
+M-2026-0519,2026-09-13,07:04,Feijenoord,Laadkraanstraat,Groen en bomen,Het gras in het plantsoen wordt niet gemaaid tegenover de supermarkt.,app,afgehandeld,2026-10-10,51.90332,4.48604
+M-2026-0520,2026-09-13,11:28,Centrum,Stokviswal,Container vol,Ondergrondse container gaat niet meer open.,website,afgehandeld,2026-09-14,51.92159,4.47657
+M-2026-0521,2026-09-14,18:14,Charlois,Kreekoever,Zwerfafval,Glasscherven op het fietspad bij het bankje. Gevaarlijk voor fietsers.,website,afgehandeld,2026-09-18,51.88052,4.47037
+M-2026-0522,2026-09-15,10:34,Kralingen-Crooswijk,Plaslaan,Container vol,"Restafvalcontainer klemt, de klep zit vast naast de speeltuin.",telefoon,afgehandeld,2026-09-16,51.93274,4.51818
+M-2026-0523,2026-09-15,11:14,Hillegersberg-Schiebroek,Kastanjehoflaan,Zwerfafval,"Zwerfvuil langs de waterkant voor nummer 133, flessen drijven in het water.",telefoon,afgehandeld,2026-09-16,51.95221,4.48991
+M-2026-0524,2026-09-15,13:43,Charlois,Boomgaardstraat,Container vol,"Restafvalcontainer klemt, de klep zit vast bij het bankje.",app,afgehandeld,2026-09-17,51.8838,4.47029
+M-2026-0525,2026-09-15,15:12,Prins Alexander,Tuinstadlaan,Bestrating,"Gat in de weg, auto's rijden eromheen.",website,afgehandeld,2026-09-20,51.9575,4.55222
+M-2026-0526,2026-09-15,23:26,Delfshaven,Koolvisstraat,Straatverlichting,Lantaarnpaal doet het niet. Het is hier 's avonds heel donker.,app,afgehandeld,2026-09-29,51.91473,4.45138
+M-2026-0527,2026-09-16,08:11,Feijenoord,Marktveldstraat,Zwerfafval,Na de markt liggen er overal kartonnen dozen tegenover de supermarkt.,website,afgehandeld,2026-09-19,51.90227,4.50123
+M-2026-0528,2026-09-16,15:06,Hillegersberg-Schiebroek,Villapark Oost,Zwerfafval,Na het weekend ligt het hier vol met afval.,app,afgehandeld,2026-09-21,51.95116,4.4914
+M-2026-0529,2026-09-17,19:55,Charlois,Kreekoever,Groen en bomen,Het gras in het plantsoen wordt niet gemaaid op de hoek met de Boomgaardstraat.,app,afgehandeld,2026-10-25,51.87895,4.47031
+M-2026-0530,2026-09-18,08:43,Noord,Lindehof,Container vol,"Glasbak vol, mensen zetten flessen ernaast.",website,afgehandeld,2026-09-20,51.93748,4.46945
+M-2026-0531,2026-09-18,11:42,Feijenoord,Laadkraanstraat,Overig,Loslopende kippen in het plantsoen bij het bankje. Van wie zijn die?,app,afgehandeld,2026-09-29,51.89572,4.49883
+M-2026-0532,2026-09-19,10:40,Feijenoord,Marktveldstraat,Zwerfafval,"Rotte groente en plastic zakken van de markt bij het bankje, het stinkt.",app,afgehandeld,2026-09-24,51.89459,4.48569
+M-2026-0533,2026-09-19,10:41,Delfshaven,Touwslagerspad,Graffiti,Bushokje helemaal beklad op de hoek met de Mouterijstraat.,telefoon,afgehandeld,2026-10-07,51.91208,4.44571
+M-2026-0534,2026-09-19,12:42,Centrum,Tonnenkade,Zwerfafval,"Er ligt een berg vuilniszakken naast de container bij de ingang van het park, het waait alle kanten op.",app,afgehandeld,2026-09-23,51.92167,4.46778
+M-2026-0535,2026-09-20,12:43,Feijenoord,Pakhuisweg,Container vol,De papiercontainer is al dagen vol naast de speeltuin.,website,afgehandeld,2026-09-23,51.89836,4.50275
+M-2026-0536,2026-09-20,17:03,IJsselmonde,Weidevogelpad,Container vol,De papiercontainer is al dagen vol ter hoogte van nummer 15.,website,afgehandeld,2026-09-21,51.89009,4.54669
+M-2026-0537,2026-09-22,18:46,Delfshaven,Koolvisstraat,Bestrating,"Die boomwortels drukken alles omhoog, repareren helpt niet. Nummer 23.",telefoon,afgehandeld,2026-09-27,51.91212,4.44318
+M-2026-0538,2026-09-22,21:20,Kralingen-Crooswijk,Rietkragenhof,Container vol,"Restafvalcontainer klemt, de klep zit vast naast de speeltuin.",website,afgehandeld,2026-09-24,51.92889,4.50447
+M-2026-0539,2026-09-23,20:50,Centrum,Koopmansgang,Bestrating,"Tegels steken omhoog bij de ingang van het park, lastig met de rollator.",website,afgehandeld,2026-09-29,51.92584,4.48535
+M-2026-0540,2026-09-23,22:57,Kralingen-Crooswijk,Plaslaan,Ongedierte,"Veel ratten in de tuintjes bij het bankje, ze komen af op het brood voor de eenden.",app,afgehandeld,2026-09-28,51.9295,4.51324
+M-2026-0541,2026-09-24,10:29,Kralingen-Crooswijk,Molenwiekstraat,Fietswrak,"Weesfiets met platte banden voor nummer 19, staat er al sinds de zomer.",website,afgehandeld,2026-10-22,51.92579,4.50619
+M-2026-0542,2026-09-25,11:35,Prins Alexander,Tuinstadlaan,Container vol,Ondergrondse container gaat niet meer open bij het bankje.,app,afgehandeld,2026-09-26,51.95523,4.5503
+M-2026-0543,2026-09-25,16:31,Delfshaven,Mouterijstraat,Fietswrak,Fietswrak half in de sloot op de hoek met de Kuipershof.,website,afgehandeld,2026-10-29,51.90966,4.43803
+M-2026-0544,2026-09-25,19:21,Kralingen-Crooswijk,Esdoornpad,Straatverlichting,"Drie lampen achter elkaar uit voor nummer 128, geeft een onveilig gevoel.",app,afgehandeld,2026-09-30,51.9273,4.515
+M-2026-0545,2026-09-26,07:42,Centrum,Stokviswal,Straatverlichting,Lamp brandt overdag ook naast de speeltuin.,website,afgehandeld,2026-10-09,51.91864,4.46945
+M-2026-0546,2026-09-26,14:58,Feijenoord,Marktveldstraat,Zwerfafval,"Na de markt blijft er veel afval achter naast de speeltuin: kratten, groente en plastic.",website,afgehandeld,2026-09-30,51.89662,4.49461
+M-2026-0547,2026-09-26,15:36,IJsselmonde,Rivierhof,Fietswrak,Fietswrak staat al maanden vast aan het hek.,app,afgehandeld,2026-10-12,51.88808,4.53973
+M-2026-0548,2026-09-26,17:22,Feijenoord,Dokwerkersplein,Zwerfafval,"Na de markt blijft er veel afval achter tegenover de supermarkt: kratten, groente en plastic.",app,afgehandeld,2026-10-01,51.90217,4.49296
+M-2026-0549,2026-09-26,17:46,Delfshaven,Touwslagerspad,Ongedierte,"Veel ratten in de tuintjes voor nummer 121, ze komen af op het brood voor de eenden.",app,afgehandeld,2026-10-04,51.90689,4.45052
+M-2026-0550,2026-09-27,08:00,Overschie,Schieoever,Bestrating,"Gat in de weg bij de ingang van het park, auto's rijden eromheen.",app,afgehandeld,2026-10-04,51.93864,4.43219
+M-2026-0551,2026-09-27,16:19,Centrum,Zeilmakershof,Zwerfafval,"Rommel rond de bankjes bij de ingang van het park, meeuwen trekken de zakken open.",website,afgehandeld,2026-10-01,51.93085,4.48348
+M-2026-0552,2026-09-27,19:49,Hillegersberg-Schiebroek,Villapark Oost,Bestrating,Klinkers liggen los op het kruispunt bij het bankje.,website,afgehandeld,2026-10-04,51.95664,4.48674
+M-2026-0553,2026-09-29,14:01,Noord,Bloemkweekstraat,Zwerfafval,Iemand heeft een bank en een matras op straat gezet ter hoogte van nummer 66.,app,afgehandeld,2026-10-02,51.94347,4.47064
+M-2026-0554,2026-09-30,15:55,IJsselmonde,Dijkwachterslaan,Zwerfafval,"Het ligt hier echt vies, wanneer wordt er geveegd?",website,afgehandeld,2026-10-02,51.89009,4.54717
+M-2026-0555,2026-10-01,12:25,Centrum,Zeilmakershof,Container vol,Ondergrondse container gaat niet meer open bij de ingang van het park.,app,afgehandeld,2026-10-03,51.9162,4.47983
+M-2026-0556,2026-10-02,08:21,Feijenoord,Dokwerkersplein,Zwerfafval,"Er ligt een berg vuilniszakken naast de container ter hoogte van nummer 22, het waait alle kanten op.",website,afgehandeld,2026-10-06,51.89983,4.50599
+M-2026-0557,2026-10-02,09:12,Prins Alexander,Tuinstadlaan,Zwerfafval,Pizzadozen en flessen in de struiken bij het bankje.,app,afgehandeld,2026-10-06,51.95673,4.55618
+M-2026-0558,2026-10-03,09:41,Charlois,Dorpsweidepad,Container vol,De papiercontainer is al dagen vol.,app,afgehandeld,2026-10-05,51.87974,4.46872
+M-2026-0559,2026-10-05,12:18,Delfshaven,Jeneverkade,Fietswrak,"Weesfiets met platte banden, staat er al sinds de zomer.",app,in behandeling,,51.90359,4.44394
+M-2026-0560,2026-10-05,21:43,Charlois,Zuidpolderhof,Straatverlichting,"Drie lampen achter elkaar uit, geeft een onveilig gevoel.",website,afgehandeld,2026-10-12,51.87861,4.46628
+M-2026-0561,2026-10-06,07:05,Hillegersberg-Schiebroek,Plassenkade,Overig,"Drie lampen achter elkaar uit, geeft een onveilig gevoel.",website,afgehandeld,2026-10-14,51.95255,4.48475
+M-2026-0562,2026-10-06,07:24,Hillegersberg-Schiebroek,Kastanjehoflaan,Bestrating,Klinkers liggen los op het kruispunt.,app,afgehandeld,2026-10-13,51.95175,4.48738
+M-2026-0563,2026-10-06,10:30,Centrum,Koopmansgang,Overig,Het gras in het plantsoen wordt niet gemaaid bij het bankje.,app,afgehandeld,2026-10-30,51.91359,4.47919
+M-2026-0564,2026-10-06,22:21,Feijenoord,Pakhuisweg,Container vol,"Restafvalcontainer klemt, de klep zit vast voor nummer 11.",app,afgehandeld,2026-10-09,51.89722,4.4967
+M-2026-0565,2026-10-06,22:44,Feijenoord,Pakhuisweg,Straatverlichting,"Donker stuk op het fietspad, de verlichting is kapot.",app,afgehandeld,2026-10-12,51.89806,4.49988
+M-2026-0566,2026-10-07,12:23,Feijenoord,Marktveldstraat,Zwerfafval,"Na de markt blijft er veel afval achter tegenover de supermarkt: kratten, groente en plastic.",app,afgehandeld,2026-10-09,51.90072,4.49623
+M-2026-0567,2026-10-08,10:07,Kralingen-Crooswijk,Rietkragenhof,Groen en bomen,"Overhangende takken tegenover de supermarkt, je kunt er niet meer langs met de kinderwagen.",app,in behandeling,,51.93333,4.50312
+M-2026-0568,2026-10-09,07:44,Feijenoord,Dokwerkersplein,Graffiti,"Iemand heeft het verkeersbord beklad tegenover de supermarkt, je kunt het niet meer lezen.",app,afgehandeld,2026-10-21,51.89969,4.50012
+M-2026-0569,2026-10-09,13:47,IJsselmonde,Rivierhof,Overig,"Rommel rond de bankjes bij het bankje, meeuwen trekken de zakken open.",website,afgehandeld,2026-10-12,51.89249,4.54315
+M-2026-0570,2026-10-09,21:39,Kralingen-Crooswijk,Esdoornpad,Straatverlichting,Lantaarnpaal doet het niet voor nummer 42. Het is hier 's avonds heel donker.,website,afgehandeld,2026-10-19,51.92137,4.5009
+M-2026-0571,2026-10-09,21:48,Delfshaven,Kuipershof,Straatverlichting,"Donker stuk op het fietspad naast de speeltuin, de verlichting is kapot.",app,afgehandeld,2026-10-20,51.91108,4.45008
+M-2026-0572,2026-10-09,22:34,IJsselmonde,Smeltkroesstraat,Straatverlichting,Straatlamp knippert de hele avond ter hoogte van nummer 109.,app,afgehandeld,2026-10-22,51.89267,4.54462
+M-2026-0573,2026-10-10,23:41,Noord,Kanaalstraat,Straatverlichting,Lantaarnpaal doet het niet ter hoogte van nummer 40. Het is hier 's avonds heel donker.,website,afgehandeld,2026-10-19,51.93993,4.46564
+M-2026-0574,2026-10-13,09:04,Centrum,Stokviswal,Bestrating,Putdeksel ligt los en klappert.,telefoon,afgehandeld,2026-10-21,51.9191,4.48971
+M-2026-0575,2026-10-13,10:36,Feijenoord,Dokwerkersplein,Bestrating,"Gat in de weg, auto's rijden eromheen.",app,afgehandeld,2026-10-23,51.89207,4.49325
+M-2026-0576,2026-10-13,15:22,Delfshaven,Mouterijstraat,Zwerfafval,"Zwerfvuil langs de waterkant bij het bankje, flessen drijven in het water.",website,afgehandeld,2026-10-18,51.90842,4.44428
+M-2026-0577,2026-10-14,09:51,Delfshaven,Kuipershof,Zwerfafval,Pizzadozen en flessen in de struiken tegenover de supermarkt.,website,afgehandeld,2026-10-19,51.91119,4.4559
+M-2026-0578,2026-10-14,12:04,Feijenoord,Dokwerkersplein,Zwerfafval,"Na de markt blijft er veel afval achter op de hoek met de Marktveldstraat: kratten, groente en plastic.",app,afgehandeld,2026-10-18,51.89587,4.49252
+M-2026-0579,2026-10-15,14:42,Feijenoord,Laadkraanstraat,Overig,De papiercontainer is al dagen vol op de hoek met de Marktveldstraat.,app,afgehandeld,2026-10-18,51.9006,4.49751
+M-2026-0580,2026-10-17,13:23,IJsselmonde,Dijkwachterslaan,Container vol,"Container zit vol, zakken staan ernaast tegenover de supermarkt.",website,afgehandeld,2026-10-19,51.89316,4.535
+M-2026-0581,2026-10-17,14:22,Charlois,Hoeveweg,Overig,Nieuwe tags op het transformatorhuisje bij de ingang van het park.,app,in behandeling,,51.8803,4.46611
+M-2026-0582,2026-10-17,16:12,Centrum,Pakhuisplein,Zwerfafval,"Er ligt een berg vuilniszakken naast de container voor nummer 45, het waait alle kanten op.",app,afgehandeld,2026-10-21,51.92174,4.47815
+M-2026-0583,2026-10-18,12:04,IJsselmonde,Dijkwachterslaan,Bestrating,"Tegels steken omhoog bij de ingang van het park, lastig met de rollator.",app,afgehandeld,2026-10-23,51.89128,4.5369
+M-2026-0584,2026-10-18,16:02,Prins Alexander,Kiekendiefpad,Bestrating,"Gat in de weg op de hoek met de Zevenkampse Hof, auto's rijden eromheen.",website,afgehandeld,2026-10-30,51.95074,4.54976
+M-2026-0585,2026-10-19,19:01,Hillegersberg-Schiebroek,Wilgenwal,Zwerfafval,"Het ligt hier echt vies bij de ingang van het park, wanneer wordt er geveegd?",app,afgehandeld,2026-10-20,51.9512,4.49302
+M-2026-0586,2026-10-21,09:54,Feijenoord,Marktveldstraat,Zwerfafval,"Rotte groente en plastic zakken van de markt, het stinkt.",website,afgehandeld,2026-10-25,51.90661,4.50087
+M-2026-0587,2026-10-21,16:39,Hillegersberg-Schiebroek,Kastanjehoflaan,Container vol,"Glasbak vol, mensen zetten flessen ernaast tegenover de supermarkt.",app,afgehandeld,2026-10-24,51.94903,4.47729
+M-2026-0588,2026-10-21,22:02,Feijenoord,Dokwerkersplein,Zwerfafval,"Na de markt blijft er veel afval achter tegenover de supermarkt: kratten, groente en plastic.",app,afgehandeld,2026-10-26,51.89861,4.50119
+M-2026-0589,2026-10-24,07:52,IJsselmonde,Weidevogelpad,Overig,"Bankje in het park is kapot, er mist een plank bij de bushalte.",app,in behandeling,,51.89287,4.54585
+M-2026-0590,2026-10-24,08:55,Feijenoord,Marktveldstraat,Zwerfafval,"Rotte groente en plastic zakken van de markt op de hoek met de Pakhuisweg, het stinkt.",website,afgehandeld,2026-10-27,51.90142,4.51071
+M-2026-0591,2026-10-24,15:43,Noord,Bloemkweekstraat,Overig,Verroeste fiets in het rek bij de metro.,website,in behandeling,,51.93761,4.47258
+M-2026-0592,2026-10-25,08:29,Kralingen-Crooswijk,Plaslaan,Zwerfafval,Na het weekend ligt het hier vol met afval bij het bankje.,website,afgehandeld,2026-10-28,51.93017,4.51014
+M-2026-0593,2026-10-25,10:34,Delfshaven,Kuipershof,Graffiti,"Iemand heeft het verkeersbord beklad bij de ingang van het park, je kunt het niet meer lezen.",app,in behandeling,,51.91651,4.44999
+M-2026-0594,2026-10-25,16:54,Kralingen-Crooswijk,Rietkragenhof,Overig,Graffiti op de muur van de school op de hoek met de Molenwiekstraat.,app,in behandeling,,51.92342,4.50914
+M-2026-0595,2026-10-25,16:55,Kralingen-Crooswijk,Crooswijkse Boog,Container vol,"Glasbak vol, mensen zetten flessen ernaast.",app,afgehandeld,2026-10-27,51.92312,4.5074
+M-2026-0596,2026-10-25,18:20,Charlois,Zuidpolderhof,Groen en bomen,Heg groeit over het fietspad.,app,in behandeling,,51.87997,4.48574
+M-2026-0597,2026-10-26,09:34,Overschie,Molensloot,Fietswrak,"Weesfiets met platte banden bij de ingang van het park, staat er al sinds de zomer.",app,in behandeling,,51.93769,4.43411
+M-2026-0598,2026-10-26,09:48,Prins Alexander,Kiekendiefpad,Ongedierte,"Ratten bij de containers voor nummer 121, vooral 's avonds.",telefoon,in behandeling,,51.95766,4.54536
+M-2026-0599,2026-10-27,15:20,Delfshaven,Kuipershof,Overig,"Container zit vol, zakken staan ernaast voor nummer 59.",app,afgehandeld,2026-10-30,51.91568,4.43489
+M-2026-0600,2026-10-27,16:42,Kralingen-Crooswijk,Molenwiekstraat,Ongedierte,Wespennest in de lantaarnpaal bij de bushalte.,telefoon,afgehandeld,2026-10-31,51.92236,4.51295
+M-2026-0601,2026-10-28,10:53,Noord,Notenkrakerspad,Zwerfafval,Pizzadozen en flessen in de struiken bij de ingang van het park.,app,afgehandeld,2026-10-30,51.93239,4.48761
+M-2026-0602,2026-10-28,16:32,Charlois,Boomgaardstraat,Graffiti,Bushokje helemaal beklad ter hoogte van nummer 88.,app,in behandeling,,51.88658,4.4638
+M-2026-0603,2026-10-28,20:50,Delfshaven,Touwslagerspad,Straatverlichting,Straatlamp knippert de hele avond.,app,in behandeling,,51.90906,4.4488
+M-2026-0604,2026-10-29,22:05,Hillegersberg-Schiebroek,Villapark Oost,Straatverlichting,"Drie lampen achter elkaar uit voor nummer 82, geeft een onveilig gevoel.",app,nieuw,,51.95524,4.49437
+M-2026-0605,2026-10-30,23:17,IJsselmonde,Oeverzwaluwstraat,Overig,Lamp brandt overdag ook naast de speeltuin.,telefoon,nieuw,,51.88896,4.54055
