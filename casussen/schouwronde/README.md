@@ -7,7 +7,7 @@ Op dinsdag 10 november liep een schouwer van de gemeente door Delfshaven en maak
 - `fotos/`: 16 foto's, van `schouw-01.jpg` tot en met `schouw-16.jpg`.
 - `fotos.csv`: per foto de tijd, de straat en de plek op de kaart.
 
-Alles is verzonnen. De straatnamen bestaan niet.
+De schouwronde en de straatnamen zijn verzonnen. De foto's zijn echte foto's met een vrije licentie, gemaakt op andere plekken; de makers staan in `fotos/BRONNEN.md`.
 
 ## Wat je bouwt
 
